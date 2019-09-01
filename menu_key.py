@@ -1,0 +1,3 @@
+menu_key = "16ba705e4f6c733794779dfa8f22a405"
+
+password = "938cb05640e3f8d055e7e95725eeef51"
