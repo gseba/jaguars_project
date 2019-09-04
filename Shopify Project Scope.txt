@@ -1,0 +1,53 @@
+--- Project Title ---
+
+
+--- Team Members ---
+
+Angeles
+Jonah
+Ghassan
+
+
+--- Project Description/ Guidelines ---
+ 
+
+
+
+--- Research Questions to Answers ---
+1. What variables/factors lead to a purchase?
+2. what proportion of sales come to the site through third party advertisers 
+and what percentage come to the site organically?
+3. Which landing pages have the highest rate of conversions?
+
+
+
+--- Datasets to be used ---
+Shopify API
+
+
+--- Rough Breakdown of Tasks ---
+
+Angeles -searches
+Jonah - segmentation
+Ghassan - Searches
+
+Documentation indexes:
+destination_location: customer location
+gateway: shopify_payments --> their layaway so cart is partially paid
+buyer_accepts_marketing
+
+
+- segmentations: destination location - zip code - where are people purchasing from
+ 		from?
+			- Gender, age, income (if possible), zip/location
+			- find the demographic with the highest conversion rate and focus on
+			  marketing to this group
+			- 
+- Searches: 
+	- how many people searched for MENU? (organic searches)
+	- how many people got to MENU NA through another site or search terms?
+		- indicative of SEO
+
+
+- did shipping costs lead to checkout abandonment? (min. $100 purchase for free shipping)
+- 
