@@ -1,606 +1,155 @@
-day,cancelled,financial_status,fulfillment_status,order_id,order_name,sale_line_type,billing_country,billing_postal_code,customer_name,customer_type,marketing_event_type,product_id,product_price,variant_sku,id_of_staff_who_helped_with_sale,referrer_host,referrer_url,orders,discounts,returns,shipping,taxes,total_sales,average_order_value,net_sales,units_per_transaction,pending_sales,ordered_item_quantity
-2019-07-01,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-02,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-03,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-04,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-05,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-06,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-07,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-08,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-09,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-10,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-11,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-12,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-13,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-14,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-15,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-16,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-17,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-18,No,paid,fulfilled,1104140369956,1036,product,United States,11222,Andrew McDonald,First-time,,1388544327716,74.950,MENU:Part:1800100,0,,,1,-11.240,0.000,0.000,5.660,69.370,69.370,63.710,1,0.000,1
-2019-07-18,No,paid,fulfilled,1103776088100,1032,product,United States,83340,Sierra Fox,First-time,,1381429379108,234.950,MENU:1800839,0,,,1,-46.990,0.000,0.000,17.860,205.820,205.820,187.960,1,0.000,1
-2019-07-18,No,paid,fulfilled,1103776088100,1032,shipping,United States,83340,Sierra Fox,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-18,No,paid,fulfilled,1104396353572,1037,shipping,United States,02127,Justus Goldmann,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-18,No,paid,fulfilled,1103777234980,1033,product,Canada,H1X 1S2,Jean-Michel Caron,First-time,,1381430198308,39.950,MENU:2024630,0,,,1,0.000,0.000,0.000,0.000,119.850,119.850,119.850,3,0.000,3
-2019-07-18,No,paid,unfulfilled,1103683813412,1030,product,United States,98005,Dan Boerner,First-time,,1381433770020,59.950,MENU:4772639,0,,,1,-11.990,0.000,0.000,0.000,47.960,47.960,47.960,1,0.000,1
-2019-07-18,No,paid,fulfilled,1103687680036,1031,product,United States,91335,Helga Haraldsson,First-time,,1381430755364,16.950,MENU:4534410,0,,,1,-13.560,0.000,0.000,5.150,59.390,59.390,54.240,4,0.000,4
-2019-07-18,No,paid,fulfilled,1103687680036,1031,shipping,United States,91335,Helga Haraldsson,First-time,,0,0.000,,0,,,0,0.000,0.000,11.450,0.000,11.450,0.000,0.000,0,0.000,0
-2019-07-18,No,paid,fulfilled,1103776088100,1032,product,United States,83340,Sierra Fox,First-time,,1381428461604,469.950,MENU:8010839,0,,,1,-93.990,0.000,0.000,35.720,411.680,411.680,375.960,1,0.000,1
-2019-07-18,No,paid,fulfilled,1104396353572,1037,product,United States,02127,Justus Goldmann,First-time,,1381429379108,181.970,MENU:1800859,0,,,1,-36.390,0.000,0.000,0.000,145.580,145.580,145.580,1,0.000,1
-2019-07-18,No,paid,fulfilled,1104140369956,1036,shipping,United States,11222,Andrew McDonald,First-time,,0,0.000,,0,,,0,0.000,0.000,16.490,1.460,17.950,0.000,0.000,0,0.000,0
-2019-07-18,No,paid,unfulfilled,1103683813412,1030,shipping,United States,98005,Dan Boerner,First-time,,0,0.000,,0,,,0,0.000,0.000,15.540,0.000,15.540,0.000,0.000,0,0.000,0
-2019-07-18,No,paid,fulfilled,1103777234980,1033,shipping,Canada,H1X 1S2,Jean-Michel Caron,First-time,,0,0.000,,0,,,0,0.000,0.000,50.000,0.000,50.000,0.000,0.000,0,0.000,0
-2019-07-18,No,paid,fulfilled,1103785558052,1034,product,United States,90029,Robert August,First-time,,1381428658212,149.950,MENU:4799949,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/accessories/products/new-norm-slate-plate,1,-29.990,0.000,0.000,11.400,131.360,131.360,119.960,1,0.000,1
-2019-07-18,No,paid,fulfilled,1103785558052,1034,product,United States,90029,Robert August,First-time,,1381427970084,59.980,MENU:80000018,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/accessories/products/new-norm-slate-plate,1,-11.990,0.000,0.000,4.560,52.550,52.550,47.990,1,0.000,1
-2019-07-18,No,paid,fulfilled,1103785558052,1034,shipping,United States,90029,Robert August,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/accessories/products/new-norm-slate-plate,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-18,No,paid,fulfilled,1104041508900,1035,product,United States,80005,Jeff Sasakura,First-time,,1381432721444,199.950,1473539-MA,0,,,1,-39.990,0.000,0.000,0.000,159.960,159.960,159.960,1,0.000,1
-2019-07-18,No,paid,fulfilled,1104041508900,1035,shipping,United States,80005,Jeff Sasakura,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-19,No,paid,fulfilled,1105022812196,1038,product,United States,95008,Tiffany Hu,First-time,,1388542689316,34.970,MENU:4813539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/candleholders/products/pov-circle-tealight-candleholder,1,-7.000,0.000,0.000,2.590,30.560,30.560,27.970,1,0.000,1
-2019-07-19,No,paid,fulfilled,1106069815332,1043,product,United States,60156,Jonathan Kaye,First-time,,1381428559908,34.970,MENU:1632139,0,,,1,-13.980,0.000,0.000,0.000,55.960,55.960,55.960,2,0.000,2
-2019-07-19,No,paid,fulfilled,1106069815332,1043,shipping,United States,60156,Jonathan Kaye,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-19,No,partially_paid,fulfilled,1105580523556,1041,product,United States,92101,Ryan Wiggs,First-time,,1368146935844,1000.000,MENU:8811530,0,,,1,-199.990,0.000,0.000,62.000,862.010,862.010,800.010,1,0.000,1
-2019-07-19,No,partially_paid,fulfilled,1105580523556,1041,shipping,United States,92101,Ryan Wiggs,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-19,No,paid,fulfilled,1105295769636,1039,shipping,United States,37216,Lauren Bradshaw,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-19,No,partially_paid,fulfilled,1105580523556,1041,product,United States,92101,Ryan Wiggs,First-time,,1368147132452,349.950,MENU:8420530,0,,,1,-139.990,0.000,0.000,43.390,603.300,603.300,559.910,2,0.000,2
-2019-07-19,No,paid,fulfilled,1105555914788,1040,shipping,United States,78704,Stacy Shuman,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/cart,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-19,No,paid,fulfilled,1105022812196,1038,shipping,United States,95008,Tiffany Hu,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/candleholders/products/pov-circle-tealight-candleholder,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-19,No,paid,fulfilled,1105022812196,1038,product,United States,95008,Tiffany Hu,First-time,,1381431377956,90.970,MENU:4815839,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/candleholders/products/pov-circle-tealight-candleholder,1,-18.190,0.000,0.000,6.730,79.510,79.510,72.780,1,0.000,1
-2019-07-19,No,paid,fulfilled,1106069815332,1043,product,United States,60156,Jonathan Kaye,First-time,,1381428527140,69.970,MENU:1630139,0,,,1,-14.000,0.000,0.000,0.000,55.970,55.970,55.970,1,0.000,1
-2019-07-19,No,paid,fulfilled,1105022812196,1038,product,United States,95008,Tiffany Hu,First-time,,1381430132772,13.170,MENU:2012630,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/candleholders/products/pov-circle-tealight-candleholder,1,-2.630,0.000,0.000,0.980,11.520,11.520,10.540,1,0.000,1
-2019-07-19,No,paid,fulfilled,1105295769636,1039,product,United States,37216,Lauren Bradshaw,First-time,,1381433409572,630.000,MENU:6900049,0,www.google.com,https://www.google.com/,1,-94.500,0.000,0.000,0.000,535.500,535.500,535.500,1,0.000,1
-2019-07-19,No,paid,fulfilled,1105555914788,1040,product,United States,78704,Stacy Shuman,First-time,,1381433344036,409.900,Set-1950539-TR-MA,0,store.menudesignshop.com,https://store.menudesignshop.com/cart,1,0.000,0.000,0.000,67.640,887.440,887.440,819.800,2,0.000,2
-2019-07-19,No,paid,fulfilled,1105789124644,1042,shipping,United States,94612,Justin Young,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-19,No,paid,fulfilled,1105789124644,1042,product,United States,94612,Justin Young,First-time,,1381432655908,129.950,MENU:1470639,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,-25.980,0.000,0.000,21.640,255.560,255.560,233.920,2,0.000,2
-2019-07-19,No,paid,fulfilled,1105022812196,1038,product,United States,95008,Tiffany Hu,First-time,,1381431476260,69.970,MENU:4816539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/candleholders/products/pov-circle-tealight-candleholder,1,-13.990,0.000,0.000,5.180,61.160,61.160,55.980,1,0.000,1
-2019-07-19,No,paid,fulfilled,1105022812196,1038,product,United States,95008,Tiffany Hu,First-time,,1381430132772,17.970,MENU:2013630,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/candleholders/products/pov-circle-tealight-candleholder,1,-3.590,0.000,0.000,1.330,15.710,15.710,14.380,1,0.000,1
-2019-07-19,No,paid,fulfilled,1105789124644,1042,product,United States,94612,Justin Young,First-time,,1381428822052,14.990,MENU:2500639,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,-1.500,0.000,0.000,1.240,14.730,14.730,13.490,1,0.000,1
-2019-07-19,No,paid,fulfilled,1105022812196,1038,product,United States,95008,Tiffany Hu,First-time,,1381430132772,9.570,MENU:2011630,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/candleholders/products/pov-circle-tealight-candleholder,1,-1.920,0.000,0.000,0.710,8.360,8.360,7.650,1,0.000,1
-2019-07-19,No,paid,fulfilled,1105022812196,1038,product,United States,95008,Tiffany Hu,First-time,,1381430591524,11.970,MENU:2030010,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/candleholders/products/pov-circle-tealight-candleholder,1,-2.400,0.000,0.000,0.880,10.450,10.450,9.570,1,0.000,1
-2019-07-19,No,paid,fulfilled,1105022812196,1038,product,United States,95008,Tiffany Hu,First-time,,1381430591524,14.370,MENU:2030030,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/candleholders/products/pov-circle-tealight-candleholder,1,-5.740,0.000,0.000,2.130,25.130,25.130,23.000,2,0.000,2
-2019-07-20,No,paid,fulfilled,1107234750500,1047,product,United States,94510,Emiko Taki,First-time,,1381429772324,19.170,MENU:2017710,0,,,1,-3.840,0.000,0.000,1.280,16.610,16.610,15.330,1,0.000,1
-2019-07-20,No,paid,fulfilled,1106653315108,1045,product,United States,19123,Arthur Armstrong,First-time,,1381433770020,29.970,MENU:4771429,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,0.000,29.970,29.970,29.970,1,0.000,1
-2019-07-20,No,paid,fulfilled,1107234750500,1047,product,United States,94510,Emiko Taki,First-time,,1381433770020,49.950,MENU:4771639,0,,,1,-9.990,0.000,0.000,3.350,43.310,43.310,39.960,1,0.000,1
-2019-07-20,No,paid,fulfilled,1107234750500,1047,product,United States,94510,Emiko Taki,First-time,,1381433933860,49.950,MENU:4774639,0,,,1,-9.980,0.000,0.000,3.350,43.320,43.320,39.970,1,0.000,1
-2019-07-20,No,paid,fulfilled,1107234750500,1047,shipping,United States,94510,Emiko Taki,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-20,No,paid,fulfilled,1106615107620,1044,shipping,United States,11206,Colin Athens,First-time,,0,0.000,,0,www.amazon.com,https://www.amazon.com/hz/wishlist/ls/ZYKFVGNRV5UE/ref=nav_wishlist_lists_1,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-20,No,paid,fulfilled,1106653315108,1045,product,United States,19123,Arthur Armstrong,First-time,,1381431246884,169.950,MENU:1755539,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,0.000,169.950,169.950,169.950,1,0.000,1
-2019-07-20,No,paid,fulfilled,1106720522276,1046,shipping,United States,80202,Aaron Long,First-time,,0,0.000,,0,,,0,0.000,0.000,12.330,0.000,12.330,0.000,0.000,0,0.000,0
-2019-07-20,No,paid,fulfilled,1106653315108,1045,product,United States,19123,Arthur Armstrong,First-time,,1381433933860,29.970,MENU:4774429,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,0.000,29.970,29.970,29.970,1,0.000,1
-2019-07-20,No,paid,fulfilled,1106653315108,1045,product,United States,19123,Arthur Armstrong,First-time,,1381433409572,630.000,MENU:6900539,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,0.000,630.000,630.000,630.000,1,0.000,1
-2019-07-20,No,paid,fulfilled,1106653315108,1045,shipping,United States,19123,Arthur Armstrong,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-20,No,paid,fulfilled,1107234750500,1047,product,United States,94510,Emiko Taki,First-time,,1381429608484,0.000,MENU:2019U,0,,,1,0.000,0.000,0.000,0.000,0.000,0.000,0.000,1,0.000,1
-2019-07-20,No,paid,fulfilled,1106615107620,1044,product,United States,11206,Colin Athens,First-time,,1381433638948,99.950,MENU:4736039,0,www.amazon.com,https://www.amazon.com/hz/wishlist/ls/ZYKFVGNRV5UE/ref=nav_wishlist_lists_1,1,-19.990,0.000,0.000,7.100,87.060,87.060,79.960,1,0.000,1
-2019-07-20,No,paid,fulfilled,1106720522276,1046,product,United States,80202,Aaron Long,First-time,,1381433671716,84.950,MENU:4683039,0,,,1,-16.990,0.000,0.000,0.000,67.960,67.960,67.960,1,0.000,1
-2019-07-21,No,paid,fulfilled,1108253769764,1053,shipping,Canada,J5W 2X8,Stéphanie Castonguay-Vien,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,131.250,0.000,131.250,0.000,0.000,0,0.000,0
-2019-07-21,No,paid,fulfilled,1108846870564,1056,product,United States,10024,Tamar Burrows,First-time,,1381426429988,675.000,MENU:7800689,0,pay.shopify.com,https://pay.shopify.com/transactions/new/token/NnNnUFI4V1V6YzJQTndBVXhISlQzOTNNY0t1WUhoYTZqNnVqck14U3MwblJWaTNBVHlEdkNHNzJFUzE1a2NVb2xNOXpBZUJ6V01XN21CMFdXSWs3NzYxNUllOXJIZ3VqRForRVZoSFd6QmxTb2tGMnA0b1RUMENQOVdodUpkbkE1NzF2Y0RIQlVjTVE3aFZiZCtueFF4aUlVS3BHY3lCdmJ2b2NsS1Nhd1FFNThEKytURUwzUUJ3bGZRWDd5a0M3ZWhYQk0yR2lDSTFKN1BGbUF5ckJrR3BFY0hrSnh2OWI5WnJzdjFyYmtLWkZLZWpRSUM2aTUwbWhUMTk0b3M0OU91SWxNOURFbHhqY3huUnFDT3ZucEYvL3d4ckxEeG9DUDVaTldlOWFFMmFQMHFuWU9mRlkrRFJFcTZmcWU0N3JmajRqYU9ZMzJDRFo1VElDNmRuVWFHWWpYTmNYZTZOdWRtL3VRK200VFcvQlZBOFdCb2tTY0VpUlFKdmFaNWRQMWI5VzI1NEFNNlV6cFhzNzBRcXZHdG5ydmZzRWd3d3BQMUlyU29najNObGVibHA0eE91MlhLT1BjWXdCNmxuYy0tNUZ5clRmT3ZBWCtmS0UwMTVwZ3VCQT09--4fc43bb8d4cb8aef0b97249ed068e18748f90f80,1,-135.000,0.000,0.000,47.930,587.930,587.930,540.000,1,0.000,1
-2019-07-21,No,paid,fulfilled,1108846870564,1056,product,United States,10024,Tamar Burrows,First-time,,1381433933860,49.950,MENU:4774639,0,pay.shopify.com,https://pay.shopify.com/transactions/new/token/NnNnUFI4V1V6YzJQTndBVXhISlQzOTNNY0t1WUhoYTZqNnVqck14U3MwblJWaTNBVHlEdkNHNzJFUzE1a2NVb2xNOXpBZUJ6V01XN21CMFdXSWs3NzYxNUllOXJIZ3VqRForRVZoSFd6QmxTb2tGMnA0b1RUMENQOVdodUpkbkE1NzF2Y0RIQlVjTVE3aFZiZCtueFF4aUlVS3BHY3lCdmJ2b2NsS1Nhd1FFNThEKytURUwzUUJ3bGZRWDd5a0M3ZWhYQk0yR2lDSTFKN1BGbUF5ckJrR3BFY0hrSnh2OWI5WnJzdjFyYmtLWkZLZWpRSUM2aTUwbWhUMTk0b3M0OU91SWxNOURFbHhqY3huUnFDT3ZucEYvL3d4ckxEeG9DUDVaTldlOWFFMmFQMHFuWU9mRlkrRFJFcTZmcWU0N3JmajRqYU9ZMzJDRFo1VElDNmRuVWFHWWpYTmNYZTZOdWRtL3VRK200VFcvQlZBOFdCb2tTY0VpUlFKdmFaNWRQMWI5VzI1NEFNNlV6cFhzNzBRcXZHdG5ydmZzRWd3d3BQMUlyU29najNObGVibHA0eE91MlhLT1BjWXdCNmxuYy0tNUZ5clRmT3ZBWCtmS0UwMTVwZ3VCQT09--4fc43bb8d4cb8aef0b97249ed068e18748f90f80,1,-9.990,0.000,0.000,3.550,43.510,43.510,39.960,1,0.000,1
-2019-07-21,No,paid,fulfilled,1108453261348,1055,shipping,United States,94103,Aaron Winer,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-21,No,paid,fulfilled,1108445888548,1054,product,United States,07302,Aries Liang,First-time,,1381432492068,499.950,MENU:1650169,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet,1,-99.990,0.000,0.000,35.500,435.460,435.460,399.960,1,0.000,1
-2019-07-21,No,paid,fulfilled,1108922859556,1057,product,United States,94115,Eben Bitonte,First-time,,1381431377956,55.970,MENU:4815539,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,4.760,60.730,60.730,55.970,1,0.000,1
-2019-07-21,No,paid,fulfilled,1108445888548,1054,shipping,United States,07302,Aries Liang,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-21,No,paid,fulfilled,1108253769764,1053,product,Canada,J5W 2X8,Stéphanie Castonguay-Vien,First-time,,1381427052580,525.000,MENU:7800679,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,525.000,525.000,525.000,1,0.000,1
-2019-07-21,No,paid,fulfilled,1108241874980,1052,shipping,United States,75088,Sean Lester,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-21,No,paid,fulfilled,1108199899172,1051,product,United States,97211,Angela Olson,First-time,,1381427380260,54.950,MENU:4680839,0,,,1,-21.980,0.000,0.000,0.000,87.920,87.920,87.920,2,0.000,2
-2019-07-21,Yes,refunded,unfulfilled,1108104773668,1049,product,United States,10009,Catherine Stein,First-time,,1381430919204,49.950,MENU:4761539,0,,,1,0.000,0.000,0.000,4.440,54.390,54.390,49.950,1,0.000,1
-2019-07-21,No,paid,fulfilled,1108453261348,1055,product,United States,94103,Aaron Winer,First-time,,1381429379108,181.970,MENU:1800859,0,,,1,0.000,0.000,0.000,28.210,392.150,392.150,363.940,2,0.000,2
-2019-07-21,No,paid,fulfilled,1108922859556,1057,shipping,United States,94115,Eben Bitonte,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,11.590,0.000,11.590,0.000,0.000,0,0.000,0
-2019-07-21,Yes,refunded,unfulfilled,1108104773668,1049,shipping,United States,10009,Catherine Stein,First-time,,0,0.000,,0,,,0,0.000,0.000,16.490,1.460,17.950,0.000,0.000,0,0.000,0
-2019-07-21,No,paid,fulfilled,1108157792292,1050,product,United States,60563,Liza Shelestun,First-time,,1381429379108,181.970,MENU:1800859,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet,1,-36.380,0.000,0.000,0.000,145.590,145.590,145.590,1,0.000,1
-2019-07-21,No,paid,fulfilled,1108199899172,1051,shipping,United States,97211,Angela Olson,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-21,No,paid,fulfilled,1108846870564,1056,shipping,United States,10024,Tamar Burrows,First-time,,0,0.000,,0,pay.shopify.com,https://pay.shopify.com/transactions/new/token/NnNnUFI4V1V6YzJQTndBVXhISlQzOTNNY0t1WUhoYTZqNnVqck14U3MwblJWaTNBVHlEdkNHNzJFUzE1a2NVb2xNOXpBZUJ6V01XN21CMFdXSWs3NzYxNUllOXJIZ3VqRForRVZoSFd6QmxTb2tGMnA0b1RUMENQOVdodUpkbkE1NzF2Y0RIQlVjTVE3aFZiZCtueFF4aUlVS3BHY3lCdmJ2b2NsS1Nhd1FFNThEKytURUwzUUJ3bGZRWDd5a0M3ZWhYQk0yR2lDSTFKN1BGbUF5ckJrR3BFY0hrSnh2OWI5WnJzdjFyYmtLWkZLZWpRSUM2aTUwbWhUMTk0b3M0OU91SWxNOURFbHhqY3huUnFDT3ZucEYvL3d4ckxEeG9DUDVaTldlOWFFMmFQMHFuWU9mRlkrRFJFcTZmcWU0N3JmajRqYU9ZMzJDRFo1VElDNmRuVWFHWWpYTmNYZTZOdWRtL3VRK200VFcvQlZBOFdCb2tTY0VpUlFKdmFaNWRQMWI5VzI1NEFNNlV6cFhzNzBRcXZHdG5ydmZzRWd3d3BQMUlyU29najNObGVibHA0eE91MlhLT1BjWXdCNmxuYy0tNUZ5clRmT3ZBWCtmS0UwMTVwZ3VCQT09--4fc43bb8d4cb8aef0b97249ed068e18748f90f80,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-21,No,paid,fulfilled,1108846870564,1056,product,United States,10024,Tamar Burrows,First-time,,1381433770020,49.950,MENU:4771639,0,pay.shopify.com,https://pay.shopify.com/transactions/new/token/NnNnUFI4V1V6YzJQTndBVXhISlQzOTNNY0t1WUhoYTZqNnVqck14U3MwblJWaTNBVHlEdkNHNzJFUzE1a2NVb2xNOXpBZUJ6V01XN21CMFdXSWs3NzYxNUllOXJIZ3VqRForRVZoSFd6QmxTb2tGMnA0b1RUMENQOVdodUpkbkE1NzF2Y0RIQlVjTVE3aFZiZCtueFF4aUlVS3BHY3lCdmJ2b2NsS1Nhd1FFNThEKytURUwzUUJ3bGZRWDd5a0M3ZWhYQk0yR2lDSTFKN1BGbUF5ckJrR3BFY0hrSnh2OWI5WnJzdjFyYmtLWkZLZWpRSUM2aTUwbWhUMTk0b3M0OU91SWxNOURFbHhqY3huUnFDT3ZucEYvL3d4ckxEeG9DUDVaTldlOWFFMmFQMHFuWU9mRlkrRFJFcTZmcWU0N3JmajRqYU9ZMzJDRFo1VElDNmRuVWFHWWpYTmNYZTZOdWRtL3VRK200VFcvQlZBOFdCb2tTY0VpUlFKdmFaNWRQMWI5VzI1NEFNNlV6cFhzNzBRcXZHdG5ydmZzRWd3d3BQMUlyU29najNObGVibHA0eE91MlhLT1BjWXdCNmxuYy0tNUZ5clRmT3ZBWCtmS0UwMTVwZ3VCQT09--4fc43bb8d4cb8aef0b97249ed068e18748f90f80,1,-9.990,0.000,0.000,3.550,43.510,43.510,39.960,1,0.000,1
-2019-07-21,No,paid,fulfilled,1108241874980,1052,product,United States,75088,Sean Lester,First-time,,1381433802788,79.950,MENU:9000539,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,0.000,79.950,79.950,79.950,1,0.000,1
-2019-07-21,No,paid,fulfilled,1108241874980,1052,product,United States,75088,Sean Lester,First-time,,1381426724900,99.950,MENU:7640539,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,0.000,99.950,99.950,99.950,1,0.000,1
-2019-07-21,No,paid,fulfilled,1108000538660,1048,product,United States,67901,Michael Pohorecki,First-time,,1381428527140,69.970,MENU:1630139,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,209.910,209.910,209.910,3,0.000,3
-2019-07-21,No,paid,fulfilled,1108000538660,1048,shipping,United States,67901,Michael Pohorecki,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-21,No,paid,fulfilled,1108157792292,1050,shipping,United States,60563,Liza Shelestun,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-21,No,paid,fulfilled,1108157792292,1050,product,United States,60563,Liza Shelestun,First-time,,1381431476260,69.970,MENU:4816539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet,1,-14.000,0.000,0.000,0.000,55.970,55.970,55.970,1,0.000,1
-2019-07-22,No,paid,fulfilled,1109855830052,1060,shipping,United States,33131,tatiana rengifo,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-22,No,paid,fulfilled,1110211985444,1062,shipping,United States,97215,Gracie Koester,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/pendants-chandeliers/products/bollard-lamp,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-22,No,paid,fulfilled,1109998731300,1061,shipping,United States,78703,Samantha Robles,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-22,No,paid,fulfilled,1109438988324,1058,product,United States,11372,Michael DeChillo,First-time,,1381433933860,49.950,MENU:4774539,0,,,1,-9.990,0.000,0.000,3.550,43.510,43.510,39.960,1,0.000,1
-2019-07-22,No,paid,fulfilled,1109855830052,1060,product,United States,33131,tatiana rengifo,First-time,,1381427740708,264.950,MENU:4738039,0,,,1,0.000,0.000,0.000,0.000,264.950,264.950,264.950,1,0.000,1
-2019-07-22,No,paid,fulfilled,1109438988324,1058,product,United States,11372,Michael DeChillo,First-time,,1381433770020,49.950,MENU:4771539,0,,,1,-9.990,0.000,0.000,3.550,43.510,43.510,39.960,1,0.000,1
-2019-07-22,No,paid,fulfilled,1109438988324,1058,product,United States,11372,Michael DeChillo,First-time,,1368147001380,69.950,MENU:8910579,0,,,1,-13.990,0.000,0.000,4.970,60.930,60.930,55.960,1,0.000,1
-2019-07-22,No,paid,fulfilled,1109438988324,1058,shipping,United States,11372,Michael DeChillo,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-22,No,paid,fulfilled,1109507538980,1059,shipping,United States,02110,Maya Samara,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-22,No,paid,fulfilled,1109998731300,1061,product,United States,78703,Samantha Robles,First-time,,1381429575716,249.950,MENU:8510539,0,www.google.com,https://www.google.com/,1,-49.990,0.000,0.000,0.000,199.960,199.960,199.960,1,0.000,1
-2019-07-22,No,paid,fulfilled,1109507538980,1059,product,United States,02110,Maya Samara,First-time,,1381427380260,54.950,MENU:4680839,0,,,1,-21.980,0.000,0.000,0.000,87.920,87.920,87.920,2,0.000,2
-2019-07-22,No,paid,fulfilled,1110211985444,1062,product,United States,97215,Gracie Koester,First-time,,1381427314724,69.970,MENU:1400189,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/pendants-chandeliers/products/bollard-lamp,1,0.000,0.000,0.000,0.000,139.940,139.940,139.940,2,0.000,2
-2019-07-23,No,paid,fulfilled,1111505240100,1066,shipping,United States,92109,Lori Kraus,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-23,No,partially_refunded,fulfilled,1111647027236,1068,shipping,United States,11238,Fiona Farjami,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/wall-lamps/products/cast-sconce-wall-lamp,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-23,No,partially_refunded,fulfilled,1111647027236,1068,product,United States,11238,Fiona Farjami,First-time,,1381433999396,549.900,MENU:7312539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/wall-lamps/products/cast-sconce-wall-lamp,1,0.000,0.000,0.000,48.810,598.710,598.710,549.900,1,0.000,1
-2019-07-23,No,partially_refunded,fulfilled,1111646339108,1067,shipping,United States,90212,Jasmine Matloob,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-23,No,partially_refunded,fulfilled,1111647027236,1068,product,United States,11238,Fiona Farjami,First-time,,1381433999396,999.000,MENU:7322539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/wall-lamps/products/cast-sconce-wall-lamp,1,0.000,0.000,0.000,88.670,1087.670,1087.670,999.000,1,0.000,1
-2019-07-23,No,partially_paid,partial,1111431872548,1065,product,United States,19145,Elizabeth Martell,First-time,,1368147001380,69.950,MENU:8910579,0,,,1,0.000,0.000,0.000,0.000,69.950,69.950,69.950,1,0.000,1
-2019-07-23,No,paid,fulfilled,1111227826212,1063,shipping,United States,11215,Eliot Pepe,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/pendants-chandeliers/products/cast-pendant,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-23,No,paid,fulfilled,1111227826212,1063,product,United States,11215,Eliot Pepe,First-time,,1381426364452,349.950,MENU:1860629,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/pendants-chandeliers/products/cast-pendant,1,-52.490,0.000,0.000,26.410,323.870,323.870,297.460,1,0.000,1
-2019-07-23,No,paid,fulfilled,1111252500516,1064,shipping,United States,21217,BRADFORD YOUNG,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/afteroom-plus-bar--counter-chairs-p515.aspx,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-23,No,paid,fulfilled,1111505240100,1066,product,United States,92109,Lori Kraus,First-time,,1381427675172,199.950,MENU:1250539,0,,,1,-119.970,0.000,0.000,52.690,732.520,732.520,679.830,4,0.000,4
-2019-07-23,No,partially_paid,partial,1111431872548,1065,shipping,United States,19145,Elizabeth Martell,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-23,No,partially_refunded,fulfilled,1111646339108,1067,product,United States,90212,Jasmine Matloob,First-time,,1381430591524,11.970,MENU:2030010,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,0.000,0.000,0.000,9.100,104.860,104.860,95.760,8,0.000,8
-2019-07-23,No,partially_refunded,fulfilled,1111646339108,1067,product,United States,90212,Jasmine Matloob,First-time,,1381432360996,600.000,MENU:9500639-C2,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,0.000,0.000,0.000,57.000,657.000,657.000,600.000,1,0.000,1
-2019-07-23,No,partially_refunded,fulfilled,1111712923684,1069,shipping,United States,12550,Jessica Williams,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-23,No,partially_refunded,fulfilled,1111712923684,1069,product,United States,12550,Jessica Williams,First-time,,1381433409572,630.000,MENU:6900539,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,-94.500,0.000,0.000,0.000,535.500,535.500,535.500,1,0.000,1
-2019-07-23,No,paid,fulfilled,1111252500516,1064,product,United States,21217,BRADFORD YOUNG,First-time,,1381432688676,249.950,1474539-MA,0,store.menudesignshop.com,https://store.menudesignshop.com/afteroom-plus-bar--counter-chairs-p515.aspx,1,0.000,0.000,0.000,0.000,499.900,499.900,499.900,2,0.000,2
-2019-07-23,No,partially_paid,partial,1111431872548,1065,product,United States,19145,Elizabeth Martell,First-time,,1368146968612,129.950,MENU:8900539,0,,,1,0.000,0.000,0.000,0.000,129.950,129.950,129.950,1,0.000,1
-2019-07-24,No,paid,fulfilled,1112982421540,1070,shipping,United States,92103,Margaret Berman,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-24,No,paid,fulfilled,1113032130596,1071,product,United States,74104,Gaurav Kampani,First-time,,1381426593828,99.950,MENU:7700559,0,,,1,0.000,0.000,0.000,0.000,99.950,99.950,99.950,1,0.000,1
-2019-07-24,No,paid,fulfilled,1112982421540,1070,product,United States,92103,Margaret Berman,First-time,,1381429411876,349.950,MENU:8000639,0,,,1,0.000,0.000,0.000,27.120,377.070,377.070,349.950,1,0.000,1
-2019-07-24,No,paid,fulfilled,1113879052324,1074,product,United States,81631-4893,Noel Rosseau,First-time,,1381430460452,24.950,MENU:2020710,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,0.000,149.700,149.700,149.700,6,0.000,6
-2019-07-24,No,paid,fulfilled,1114421592100,1075,shipping,United States,11222,Tim Hettler,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-24,No,paid,fulfilled,1114421592100,1075,product,United States,11222,Tim Hettler,First-time,,1381429379108,234.950,MENU:1800839,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,20.850,255.800,255.800,234.950,1,0.000,1
-2019-07-24,No,partially_refunded,fulfilled,1111647027236,1068,unknown,United States,11238,Fiona Farjami,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/wall-lamps/products/cast-sconce-wall-lamp,0,0.000,-337.280,0.000,0.000,-337.280,0.000,-337.280,0,0.000,0
-2019-07-24,No,partially_refunded,fulfilled,1111646339108,1067,unknown,United States,90212,Jasmine Matloob,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/,0,0.000,-150.000,0.000,0.000,-150.000,0.000,-150.000,0,0.000,0
-2019-07-24,No,paid,fulfilled,1113032130596,1071,shipping,United States,74104,Gaurav Kampani,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-24,No,paid,fulfilled,1113879052324,1074,shipping,United States,81631-4893,Noel Rosseau,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-24,No,paid,fulfilled,1113032130596,1071,product,United States,74104,Gaurav Kampani,First-time,,1381427675172,199.950,MENU:1250539,0,,,1,0.000,0.000,0.000,0.000,399.900,399.900,399.900,2,0.000,2
-2019-07-24,No,paid,fulfilled,1113258623012,1072,product,United States,10014,Nicholas Buzard,First-time,,1381432754212,775.000,1475539-MA,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/lighting/products/tr-bulb-suspension-frame,1,-116.250,0.000,0.000,0.000,658.750,658.750,658.750,1,0.000,1
-2019-07-24,No,paid,fulfilled,1113342640164,1073,product,United States,11733,margaret schedel,First-time,,1381426200612,1500.000,MENU:1010049,0,,,1,-300.000,0.000,0.000,103.500,1303.500,1303.500,1200.000,1,0.000,1
-2019-07-24,No,paid,fulfilled,1113342640164,1073,shipping,United States,11733,margaret schedel,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-24,No,paid,fulfilled,1113879052324,1074,product,United States,81631-4893,Noel Rosseau,First-time,,1381429379108,181.970,MENU:1800859,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,0.000,181.970,181.970,181.970,1,0.000,1
-2019-07-24,No,paid,fulfilled,1113258623012,1072,shipping,United States,10014,Nicholas Buzard,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/lighting/products/tr-bulb-suspension-frame,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-25,No,paid,fulfilled,1116694708260,1080,shipping,United States,98115,Neil Bardon,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-25,No,paid,fulfilled,1117365960740,1081,shipping,United States,94158,Jillian Kliewer,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-25,No,paid,fulfilled,1116065759268,1077,product,United States,94608,Satomi Nagata,First-time,,1381433770020,29.970,MENU:4771429,0,store.menudesignshop.com,https://store.menudesignshop.com/echasse-bowl-p463.aspx,1,0.000,0.000,0.000,2.770,32.740,32.740,29.970,1,0.000,1
-2019-07-25,No,paid,fulfilled,1117628334116,1082,shipping,United States,81611,Kristin Dittmar,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-25,No,paid,fulfilled,1115920924708,1076,product,United States,11249,Jonathan Saxton,First-time,,1385889366052,625.000,1167539,0,store.menudesignshop.com,https://store.menudesignshop.com/products/afteroom-plus-dining-chair,1,0.000,0.000,0.000,55.470,680.470,680.470,625.000,1,0.000,1
-2019-07-25,No,paid,fulfilled,1116112715812,1078,shipping,United States,11023,Emily Huang,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-25,No,paid,fulfilled,1116685434916,1079,shipping,United States,94103,Michael Gonzalez,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-25,No,paid,fulfilled,1116694708260,1080,product,United States,98115,Neil Bardon,First-time,,1381429379108,234.950,MENU:1800839,0,,,1,0.000,0.000,0.000,0.000,234.950,234.950,234.950,1,0.000,1
-2019-07-25,No,paid,fulfilled,1117365960740,1081,product,United States,94158,Jillian Kliewer,First-time,,1381429379108,219.950,MENU:1800129,0,,,1,-32.990,0.000,0.000,15.900,202.860,202.860,186.960,1,0.000,1
-2019-07-25,No,paid,fulfilled,1116685434916,1079,product,United States,94103,Michael Gonzalez,First-time,,1381427183652,399.950,MENU:8020639,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,34.000,433.950,433.950,399.950,1,0.000,1
-2019-07-25,No,paid,fulfilled,1116112715812,1078,product,United States,11023,Emily Huang,First-time,,1381426233380,599.900,1186639,0,,,1,-119.980,0.000,0.000,42.600,522.520,522.520,479.920,1,0.000,1
-2019-07-25,No,paid,fulfilled,1115920924708,1076,shipping,United States,11249,Jonathan Saxton,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/products/afteroom-plus-dining-chair,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-25,No,paid,fulfilled,1115920924708,1076,product,United States,11249,Jonathan Saxton,First-time,,1381426102308,625.000,8465979,0,store.menudesignshop.com,https://store.menudesignshop.com/products/afteroom-plus-dining-chair,1,0.000,0.000,0.000,55.470,680.470,680.470,625.000,1,0.000,1
-2019-07-25,No,paid,fulfilled,1116065759268,1077,shipping,United States,94608,Satomi Nagata,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/echasse-bowl-p463.aspx,0,0.000,0.000,11.590,0.000,11.590,0.000,0.000,0,0.000,0
-2019-07-25,No,paid,fulfilled,1115920924708,1076,product,United States,11249,Jonathan Saxton,First-time,,1381426102308,550.000,8465469,0,store.menudesignshop.com,https://store.menudesignshop.com/products/afteroom-plus-dining-chair,1,0.000,0.000,0.000,48.810,598.810,598.810,550.000,1,0.000,1
-2019-07-25,No,paid,fulfilled,1117628334116,1082,product,United States,81611,Kristin Dittmar,First-time,,1381427642404,124.950,MENU:1230539,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,-18.740,0.000,0.000,0.000,106.210,106.210,106.210,1,0.000,1
-2019-07-25,No,paid,fulfilled,1116065759268,1077,product,United States,94608,Satomi Nagata,First-time,,1381433933860,29.970,MENU:4774429,0,store.menudesignshop.com,https://store.menudesignshop.com/echasse-bowl-p463.aspx,1,0.000,0.000,0.000,2.770,32.740,32.740,29.970,1,0.000,1
-2019-07-26,No,paid,fulfilled,1120738148388,1092,shipping,United States,11357,Cynthia Cho,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-26,No,paid,fulfilled,1120738148388,1092,product,United States,11357,Cynthia Cho,First-time,,1381432295460,560.000,MENU:9520639-C2,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,49.700,609.700,609.700,560.000,1,0.000,1
-2019-07-26,Yes,voided,unfulfilled,1120116146212,1090,product,United States,91789,Maria Koshechkina,First-time,,1381429379108,234.950,MENU:1800839,0,,,1,-704.850,0.000,0.000,0.000,3994.150,3994.150,3994.150,20,0.000,20
-2019-07-26,Yes,voided,unfulfilled,1119436079140,1084,shipping,United States,21217,BRADFORD YOUNG,Returning,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-26,No,paid,fulfilled,1119478743076,1086,product,Canada,T2S 0M2,Chad Danard,First-time,,1381427445796,74.950,MENU:4418369,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/accessories,1,0.000,0.000,0.000,0.000,149.900,149.900,149.900,2,0.000,2
-2019-07-26,Yes,voided,unfulfilled,1120116146212,1090,shipping,United States,91789,Maria Koshechkina,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-26,No,paid,unfulfilled,1119625084964,1087,product,United States,77346,Lisa Stublar,First-time,,1433848578084,650.000,511113,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,650.000,650.000,650.000,1,0.000,1
-2019-07-26,No,paid,fulfilled,1119472091172,1085,shipping,United States,98121,Desiree Clayton,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-26,No,paid,fulfilled,1119472091172,1085,product,United States,98121,Desiree Clayton,First-time,,1381429805092,32.450,MENU:2010630,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,292.050,292.050,292.050,9,0.000,9
-2019-07-26,No,paid,unfulfilled,1119625084964,1087,shipping,United States,77346,Lisa Stublar,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-26,No,paid,fulfilled,1119478743076,1086,shipping,Canada,T2S 0M2,Chad Danard,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/accessories,0,0.000,0.000,50.000,0.000,50.000,0.000,0.000,0,0.000,0
-2019-07-26,Yes,pending,unfulfilled,1119983403044,1088,product,,,,,,1381432557604,2650.000,MENU:9605259,0,,,1,0.000,-2650.000,0.000,0.000,0.000,2855.380,0.000,0,0.000,1
-2019-07-26,No,paid,fulfilled,1120488292388,1091,product,United States,78703,Rex Lewis,First-time,,1381429575716,249.950,MENU:8510539,0,,,1,-49.990,0.000,0.000,0.000,199.960,199.960,199.960,1,0.000,1
-2019-07-26,No,paid,fulfilled,1120488292388,1091,shipping,United States,78703,Rex Lewis,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-26,Yes,pending,unfulfilled,1119994576932,1089,product,United States,21217,BRADFORD YOUNG,Returning,,1381432557604,2650.000,MENU:9605259,0,,,1,0.000,-2650.000,0.000,0.000,0.000,2650.000,0.000,0,0.000,1
-2019-07-26,Yes,voided,unfulfilled,1119436079140,1084,product,United States,21217,BRADFORD YOUNG,Returning,,1381432557604,500.000,MENU:9605259,0,,,1,0.000,0.000,0.000,0.000,500.000,500.000,500.000,1,0.000,1
-2019-07-26,No,paid,fulfilled,1119094210596,1083,product,United States,60607,Donna Mondi,First-time,,1381429674020,525.000,MENU:6410539,0,,,1,-78.750,0.000,0.000,0.000,446.250,446.250,446.250,1,0.000,1
-2019-07-26,No,paid,fulfilled,1119094210596,1083,shipping,United States,60607,Donna Mondi,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-27,No,paid,fulfilled,1123257057316,1093,shipping,United States,94107,Kim Oldford,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-27,No,paid,fulfilled,1123257057316,1093,product,United States,94107,Kim Oldford,First-time,,1497717014564,181.970,MENU:1800859,0,www.google.com,https://www.google.com/,1,-72.780,0.000,0.000,24.750,315.910,315.910,291.160,2,0.000,2
-2019-07-28,No,paid,fulfilled,1126321618980,1096,product,United States,10012,Terrence Cullen,First-time,,1381429379108,219.950,MENU:1800129,0,,,1,0.000,0.000,0.000,19.520,239.470,239.470,219.950,1,0.000,1
-2019-07-28,No,paid,fulfilled,1126321618980,1096,shipping,United States,10012,Terrence Cullen,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-28,No,paid,fulfilled,1126238617636,1095,product,United States,07024,Harry Kalfaian,First-time,,1381426462756,219.950,MENU:7604639,0,,,1,-43.990,0.000,0.000,0.000,175.960,175.960,175.960,1,0.000,1
-2019-07-28,No,paid,fulfilled,1124955488292,1094,shipping,United States,11222,Stephanie Miller,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-28,No,paid,fulfilled,1126238617636,1095,shipping,United States,07024,Harry Kalfaian,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-28,No,paid,fulfilled,1126238617636,1095,product,United States,07024,Harry Kalfaian,First-time,,1381426462756,249.950,MENU:7607639,0,,,1,-49.990,0.000,0.000,0.000,199.960,199.960,199.960,1,0.000,1
-2019-07-28,No,paid,fulfilled,1126238617636,1095,product,United States,07024,Harry Kalfaian,First-time,,1381426462756,219.950,MENU:7604539,0,,,1,-43.990,0.000,0.000,0.000,175.960,175.960,175.960,1,0.000,1
-2019-07-28,No,paid,fulfilled,1124955488292,1094,product,United States,11222,Stephanie Miller,First-time,,1381429379108,219.950,MENU:1800129,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,19.520,239.470,239.470,219.950,1,0.000,1
-2019-07-29,No,paid,fulfilled,1127385006116,1100,shipping,United States,10010,Adam Reale,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-29,No,paid,fulfilled,1128473002020,1103,product,United States,02143,Janine Petito,First-time,,1381433770020,39.950,MENU:4770539,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,39.950,39.950,39.950,1,0.000,1
-2019-07-29,No,paid,fulfilled,1127226015780,1099,product,United States,10003,Maria Koshechkina,Returning,,1381429379108,234.950,MENU:1800839,0,,,1,-704.850,0.000,0.000,0.000,3994.150,3994.150,3994.150,20,0.000,20
-2019-07-29,No,authorized,unfulfilled,1127692369956,1101,product,United States,10011,Nicolas Biddle,First-time,,1433848578084,2470.000,511163,0,,,1,0.000,0.000,0.000,0.000,2470.000,2470.000,2470.000,1,0.000,1
-2019-07-29,Yes,voided,unfulfilled,1119436079140,1084,product,United States,21217,BRADFORD YOUNG,Returning,,1381432557604,500.000,MENU:9605259,0,,,0,0.000,-500.000,0.000,0.000,-500.000,0.000,-500.000,null,0.000,0
-2019-07-29,No,authorized,unfulfilled,1127692369956,1101,shipping,United States,10011,Nicolas Biddle,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-29,No,paid,fulfilled,1127773208612,1102,shipping,United States,92618,Harris Shukran,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-29,No,paid,fulfilled,1127773208612,1102,product,United States,92618,Harris Shukran,First-time,,0,149.950,MENU:3520539,0,,,1,0.000,0.000,0.000,14.240,164.190,164.190,149.950,1,0.000,1
-2019-07-29,No,paid,fulfilled,1127385006116,1100,product,United States,10010,Adam Reale,First-time,,1381433606180,199.950,MENU:3100039,0,,,1,0.000,0.000,0.000,17.750,217.700,217.700,199.950,1,0.000,1
-2019-07-29,Yes,voided,unfulfilled,1120116146212,1090,product,United States,91789,Maria Koshechkina,First-time,,1381429379108,234.950,MENU:1800839,0,,,0,0.000,-3994.150,0.000,0.000,-3994.150,0.000,-3994.150,null,0.000,0
-2019-07-29,No,paid,fulfilled,1127107821604,1098,shipping,United States,10013,elyse scotford,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-29,No,paid,fulfilled,1127107821604,1098,product,United States,10013,elyse scotford,First-time,,1388544327716,133.000,MENU:Part:1800100,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,11.810,144.810,144.810,133.000,1,0.000,1
-2019-07-29,No,paid,fulfilled,1127049527332,1097,shipping,United States,11968,Lori Bandych,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-29,No,paid,fulfilled,1127049527332,1097,product,United States,11968,Lori Bandych,First-time,,1381433344036,279.950,MENU:1950539,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,-41.990,0.000,0.000,0.000,237.960,237.960,237.960,1,0.000,1
-2019-07-29,No,paid,fulfilled,1128473002020,1103,shipping,United States,02143,Janine Petito,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-29,No,paid,fulfilled,1128473002020,1103,product,United States,02143,Janine Petito,First-time,,1381433770020,59.950,MENU:4771539,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,59.950,59.950,59.950,1,0.000,1
-2019-07-30,No,partially_paid,partial,1129830023204,1109,product,United States,90012,Jeremy Chin,First-time,,1381428461604,525.000,MENU:8010839,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,-210.010,0.000,0.000,79.800,919.790,919.790,839.990,2,0.000,2
-2019-07-30,No,paid,fulfilled,1129399582756,1107,shipping,United States,94558,Debra Grassgreen,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-30,No,paid,fulfilled,1129034154020,1104,product,United States,92103,Mike Burnett,First-time,,1381426462756,500.000,MENU:7630639,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,0.000,0.000,0.000,38.750,538.750,538.750,500.000,1,0.000,1
-2019-07-30,No,partially_paid,partial,1129830023204,1109,shipping,United States,90012,Jeremy Chin,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-30,No,partially_paid,partial,1129830023204,1109,product,United States,90012,Jeremy Chin,First-time,,1381428461604,349.950,MENU:8011839,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,-69.980,0.000,0.000,26.600,306.570,306.570,279.970,1,0.000,1
-2019-07-30,No,paid,fulfilled,1129110339620,1105,shipping,United States,60601,chaeyoung kwon,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/accessories,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-30,No,paid,fulfilled,1129112829988,1106,product,United States,21217,BRADFORD YOUNG,Returning,,1381429379108,249.950,MENU:1800129,0,,,1,-22.710,0.000,0.000,0.000,227.240,227.240,227.240,1,0.000,1
-2019-07-30,No,paid,fulfilled,1129112829988,1106,product,United States,21217,BRADFORD YOUNG,Returning,,1381432557604,2500.000,MENU:9605259,0,,,1,-227.240,0.000,0.000,0.000,2272.760,2272.760,2272.760,1,0.000,1
-2019-07-30,No,paid,fulfilled,1129399582756,1107,product,United States,94558,Debra Grassgreen,First-time,,1381426593828,99.950,MENU:7700659,0,,,1,0.000,0.000,0.000,15.490,215.390,215.390,199.900,2,0.000,2
-2019-07-30,No,paid,fulfilled,1129399582756,1107,product,United States,94558,Debra Grassgreen,First-time,,1381426659364,99.950,MENU:7710559,0,,,1,0.000,0.000,0.000,15.490,215.390,215.390,199.900,2,0.000,2
-2019-07-30,No,paid,fulfilled,1129110339620,1105,product,United States,60601,chaeyoung kwon,First-time,,1381429575716,249.950,MENU:8510539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/accessories,1,0.000,0.000,0.000,0.000,249.950,249.950,249.950,1,0.000,1
-2019-07-30,No,paid,fulfilled,1129034154020,1104,shipping,United States,92103,Mike Burnett,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-30,No,paid,fulfilled,1129677586468,1108,product,United States,45694,L.C. Angell,First-time,,1381427609636,179.950,MENU:4863639,0,,,1,0.000,0.000,0.000,0.000,179.950,179.950,179.950,1,0.000,1
-2019-07-30,No,paid,fulfilled,1129677586468,1108,shipping,United States,45694,L.C. Angell,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-31,No,paid,fulfilled,1130676027428,1111,shipping,United States,11201,becka citron,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-31,No,authorized,unfulfilled,1130246406180,1110,shipping,United States,34104,Cullen Daane,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/furniture/products/marble-plinth,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-31,No,authorized,unfulfilled,1130246406180,1110,product,United States,34104,Cullen Daane,First-time,,1381427642404,129.950,MENU:1210539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/furniture/products/marble-plinth,1,0.000,0.000,0.000,0.000,389.850,389.850,389.850,3,0.000,3
-2019-07-31,No,paid,fulfilled,1131018256420,1112,shipping,United States,75032,Victoria Brooks,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-07-31,No,paid,fulfilled,1131018256420,1112,product,United States,75032,Victoria Brooks,First-time,,1381433016356,258.970,MENU:1935539,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,68.950,845.860,845.860,776.910,3,0.000,3
-2019-07-31,No,paid,fulfilled,1130676027428,1111,product,United States,11201,becka citron,First-time,,1381432229924,325.000,MENU:1850159,0,,,1,-48.750,0.000,0.000,24.520,300.770,300.770,276.250,1,0.000,1
-2019-08-01,No,paid,fulfilled,1131890507812,1114,product,Canada,M6B 1H1,jennifer Lazar,First-time,,1381429772324,34.950,MENU:2017630,0,store.menudesignshop.com,https://store.menudesignshop.com/policies/refund-policy,1,0.000,0.000,0.000,0.000,34.950,34.950,34.950,1,0.000,1
-2019-08-01,No,paid,fulfilled,1131721359396,1113,product,Canada,H2V 3H1,Anick Beaulieu,First-time,,1381426724900,99.950,MENU:7640639,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,0.000,0.000,0.000,0.000,199.900,199.900,199.900,2,0.000,2
-2019-08-01,No,paid,fulfilled,1132763643940,1116,shipping,United States,99517,Grace Abbott,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-01,No,paid,fulfilled,1131721359396,1113,product,Canada,H2V 3H1,Anick Beaulieu,First-time,,1381426954276,124.950,MENU:7700669,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,0.000,0.000,0.000,0.000,249.900,249.900,249.900,2,0.000,2
-2019-08-01,No,paid,fulfilled,1131890507812,1114,shipping,Canada,M6B 1H1,jennifer Lazar,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/policies/refund-policy,0,0.000,0.000,50.000,0.000,50.000,0.000,0.000,0,0.000,0
-2019-08-01,No,paid,fulfilled,1133025099812,1117,shipping,United States,10010,Amedee Timmer,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-01,No,paid,fulfilled,1131890507812,1114,product,Canada,M6B 1H1,jennifer Lazar,First-time,,1381429772324,29.950,MENU:2016630,0,store.menudesignshop.com,https://store.menudesignshop.com/policies/refund-policy,1,0.000,0.000,0.000,0.000,29.950,29.950,29.950,1,0.000,1
-2019-08-01,No,paid,fulfilled,1131890507812,1114,product,Canada,M6B 1H1,jennifer Lazar,First-time,,1381429772324,49.950,MENU:2018630,0,store.menudesignshop.com,https://store.menudesignshop.com/policies/refund-policy,1,0.000,0.000,0.000,0.000,49.950,49.950,49.950,1,0.000,1
-2019-08-01,No,paid,fulfilled,1131890507812,1114,product,Canada,M6B 1H1,jennifer Lazar,First-time,,1381430198308,39.950,MENU:2024630,0,store.menudesignshop.com,https://store.menudesignshop.com/policies/refund-policy,1,0.000,0.000,0.000,0.000,39.950,39.950,39.950,1,0.000,1
-2019-08-01,No,paid,fulfilled,1132382945316,1115,shipping,United States,11216,James Desir,First-time,,0,0.000,,0,,,0,0.000,0.000,16.490,1.460,17.950,0.000,0.000,0,0.000,0
-2019-08-01,No,paid,fulfilled,1132382945316,1115,product,United States,11216,James Desir,First-time,,1381427445796,79.950,MENU:4418599,0,,,1,0.000,0.000,0.000,7.100,87.050,87.050,79.950,1,0.000,1
-2019-08-01,No,paid,fulfilled,1132763643940,1116,product,United States,99517,Grace Abbott,First-time,,1381429968932,24.950,MENU:2031530,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,149.700,149.700,149.700,6,0.000,6
-2019-08-01,No,paid,fulfilled,1131721359396,1113,shipping,Canada,H2V 3H1,Anick Beaulieu,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/,0,0.000,0.000,54.980,0.000,54.980,0.000,0.000,0,0.000,0
-2019-08-01,No,paid,fulfilled,1133025099812,1117,product,United States,10010,Amedee Timmer,First-time,,1381429706788,125.970,MENU:4730859,0,,,1,0.000,0.000,0.000,11.180,137.150,137.150,125.970,1,0.000,1
-2019-08-01,No,paid,fulfilled,1133025099812,1117,product,United States,10010,Amedee Timmer,First-time,,1381430755364,19.950,MENU:4534410,0,,,1,0.000,0.000,0.000,1.770,21.720,21.720,19.950,1,0.000,1
-2019-08-01,No,paid,fulfilled,1133025099812,1117,product,United States,10010,Amedee Timmer,First-time,,1381430755364,19.950,MENU:4534530,0,,,1,0.000,0.000,0.000,1.770,21.720,21.720,19.950,1,0.000,1
-2019-08-01,No,paid,fulfilled,1133025099812,1117,product,United States,10010,Amedee Timmer,First-time,,1381430755364,19.950,MENU:4534710,0,,,1,0.000,0.000,0.000,1.770,21.720,21.720,19.950,1,0.000,1
-2019-08-01,No,paid,fulfilled,1132763643940,1116,product,United States,99517,Grace Abbott,First-time,,1381430460452,27.950,MENU:2020530,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,167.700,167.700,167.700,6,0.000,6
-2019-08-01,No,paid,fulfilled,1131721359396,1113,product,Canada,H2V 3H1,Anick Beaulieu,First-time,,1381426593828,99.950,MENU:7700559,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,0.000,0.000,0.000,0.000,99.950,99.950,99.950,1,0.000,1
-2019-08-02,No,paid,fulfilled,1134441660452,1120,product,United States,94705,Katherine Katcher,First-time,,1381427445796,79.950,MENU:4418869,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,7.400,87.350,87.350,79.950,1,0.000,1
-2019-08-02,No,paid,fulfilled,1134441660452,1120,shipping,United States,94705,Katherine Katcher,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,11.590,0.000,11.590,0.000,0.000,0,0.000,0
-2019-08-02,No,paid,unfulfilled,1134015873060,1119,shipping,Canada,M1C 3K8,Carrie Glanfield,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,50.000,0.000,50.000,0.000,0.000,0,0.000,0
-2019-08-02,No,paid,fulfilled,1133866221604,1118,product,Canada,V3G 1C2,Malerie Crump,First-time,,1381427314724,69.970,MENU:1400539,0,store.menudesignshop.com,https://store.menudesignshop.com/7539621924/checkouts/060339c704b09d88bbc5621f1111777a,1,-13.990,0.000,0.000,0.000,55.980,55.980,55.980,1,0.000,1
-2019-08-02,No,paid,unfulfilled,1134015873060,1119,product,Canada,M1C 3K8,Carrie Glanfield,First-time,,1381427445796,79.950,MENU:4418299,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,0.000,79.950,79.950,79.950,1,0.000,1
-2019-08-02,No,paid,fulfilled,1133866221604,1118,shipping,Canada,V3G 1C2,Malerie Crump,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/7539621924/checkouts/060339c704b09d88bbc5621f1111777a,0,0.000,0.000,16.930,0.000,16.930,0.000,0.000,0,0.000,0
-2019-08-03,No,paid,fulfilled,1135777218596,1124,shipping,United States,77494,Adrian Heid,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-03,No,paid,fulfilled,1135840854052,1125,shipping,United States,93291,Becky Falcone,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/stick-system/products/zet-storing-system-black,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-03,No,paid,fulfilled,1135777218596,1124,product,United States,77494,Adrian Heid,First-time,,1381433966628,169.950,MENU:8600639,0,,,1,-50.980,0.000,0.000,0.000,288.920,288.920,288.920,2,0.000,2
-2019-08-03,No,paid,fulfilled,1135255486500,1123,product,United States,75088,Sean Lester,Returning,,1381426593828,99.950,MENU:7700559,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,0.000,0.000,0.000,0.000,99.950,99.950,99.950,1,0.000,1
-2019-08-03,No,paid,fulfilled,1135840854052,1125,product,United States,93291,Becky Falcone,First-time,,1381427675172,224.950,MENU:1250539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/stick-system/products/zet-storing-system-black,1,0.000,0.000,0.000,95.610,1220.360,1220.360,1124.750,5,0.000,5
-2019-08-03,No,paid,fulfilled,1135255486500,1123,shipping,United States,75088,Sean Lester,Returning,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-03,No,paid,fulfilled,1135840854052,1125,product,United States,93291,Becky Falcone,First-time,,1381429575716,174.970,MENU:8510539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/stick-system/products/zet-storing-system-black,1,0.000,0.000,0.000,14.870,189.840,189.840,174.970,1,0.000,1
-2019-08-03,No,paid,fulfilled,1135255486500,1123,product,United States,75088,Sean Lester,Returning,,1381426724900,99.950,MENU:7640539,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,0.000,0.000,0.000,0.000,99.950,99.950,99.950,1,0.000,1
-2019-08-03,No,paid,fulfilled,1134663106596,1121,product,United States,94107,michael hilal,First-time,,1497330614308,367.500,MENU:9450111,0,,,1,0.000,0.000,0.000,62.480,797.480,797.480,735.000,2,0.000,2
-2019-08-03,No,paid,fulfilled,1134663106596,1121,shipping,United States,94107,michael hilal,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-03,No,paid,fulfilled,1134804762660,1122,product,United States,90402,VANESSA SCHWARTZ,First-time,,1381427609636,179.950,MENU:4863639,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,18.450,198.400,198.400,179.950,1,0.000,1
-2019-08-03,No,paid,fulfilled,1134804762660,1122,shipping,United States,90402,VANESSA SCHWARTZ,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-04,No,paid,partial,1137269899300,1129,product,United States,20008,Ozzie Chung,First-time,,1381426397220,39.950,MENU:7700529,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/stick-system,1,-7.990,0.000,0.000,0.000,31.960,31.960,31.960,1,0.000,1
-2019-08-04,No,paid,partial,1137269899300,1129,product,United States,20008,Ozzie Chung,First-time,,1381426823204,54.950,MENU:7700509,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/stick-system,1,-10.990,0.000,0.000,0.000,43.960,43.960,43.960,1,0.000,1
-2019-08-04,No,paid,partial,1137269899300,1129,product,United States,20008,Ozzie Chung,First-time,,1381433409572,650.000,MENU:6900539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/stick-system,1,-130.000,0.000,0.000,0.000,520.000,520.000,520.000,1,0.000,1
-2019-08-04,No,paid,partial,1137269899300,1129,shipping,United States,20008,Ozzie Chung,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/stick-system,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-04,No,paid,fulfilled,1136955818020,1128,shipping,United States,78723,Rachel Quirt,First-time,,0,0.000,,0,,,0,0.000,0.000,13.200,0.000,13.200,0.000,0.000,0,0.000,0
-2019-08-04,No,paid,fulfilled,1136955818020,1128,product,United States,78723,Rachel Quirt,First-time,,1381433737252,54.950,MENU:4680069,0,,,1,0.000,0.000,0.000,0.000,54.950,54.950,54.950,1,0.000,1
-2019-08-04,No,paid,fulfilled,1136602546212,1126,product,United States,10009,Muriel Alvarez,First-time,,1381429968932,24.950,MENU:2031530,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,49.900,49.900,49.900,2,0.000,2
-2019-08-04,No,paid,fulfilled,1136602546212,1126,shipping,United States,10009,Muriel Alvarez,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-04,No,paid,fulfilled,1136703602724,1127,shipping,United States,94110,Letitia Power,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-04,No,paid,fulfilled,1136602546212,1126,product,United States,10009,Muriel Alvarez,First-time,,1497717014564,181.970,MENU:1800859,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,363.940,363.940,363.940,2,0.000,2
-2019-08-04,No,paid,fulfilled,1136703602724,1127,product,United States,94110,Letitia Power,First-time,,1381426364452,449.950,MENU:1860629,0,,,1,0.000,0.000,0.000,38.240,488.190,488.190,449.950,1,0.000,1
-2019-08-05,No,paid,unfulfilled,1138377228324,1133,shipping,Canada,T2T 2N3,Maxine Sine,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/new,0,0.000,0.000,87.490,0.000,87.490,0.000,0.000,0,0.000,0
-2019-08-05,No,refunded,unfulfilled,1137905664036,1130,shipping,United States,87508,Elaine Carson,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,11.450,0.000,11.450,0.000,0.000,0,0.000,0
-2019-08-05,No,paid,unfulfilled,1138377228324,1133,product,Canada,T2T 2N3,Maxine Sine,First-time,,1381428658212,349.950,MENU:4798949,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/new,1,0.000,0.000,0.000,0.000,349.950,349.950,349.950,1,0.000,1
-2019-08-05,No,paid,fulfilled,1138020876324,1131,product,United States,43215,susan sommerfeld,First-time,,1381427642404,129.950,MENU:1220539,0,,,1,0.000,0.000,0.000,0.000,259.900,259.900,259.900,2,0.000,2
-2019-08-05,No,paid,fulfilled,1138210340900,1132,shipping,United States,94107,Jessica Chan,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-05,No,paid,fulfilled,1138210340900,1132,product,United States,94107,Jessica Chan,First-time,,1381431476260,69.970,MENU:4816539,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,11.900,151.840,151.840,139.940,2,0.000,2
-2019-08-05,No,paid,fulfilled,1138020876324,1131,shipping,United States,43215,susan sommerfeld,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-05,No,refunded,unfulfilled,1137905664036,1130,product,United States,87508,Elaine Carson,First-time,,1381430132772,12.570,MENU:2011630,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,1.190,13.760,13.760,12.570,1,0.000,1
-2019-08-06,No,paid,fulfilled,1139564544036,1135,product,United States,94577,Lourdes Gomez,First-time,,1381427118116,59.950,MENU:7700639,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,11.690,131.590,131.590,119.900,2,0.000,2
-2019-08-06,No,paid,fulfilled,1139564544036,1135,shipping,United States,94577,Lourdes Gomez,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-06,No,paid,fulfilled,1139511918628,1134,shipping,Australia,3067,Jessica Cook,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-06,No,paid,fulfilled,1139511918628,1134,product,Australia,3067,Jessica Cook,First-time,,1381426724900,99.950,MENU:7640639,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,0.000,0.000,0.000,8.500,108.450,108.450,99.950,1,0.000,1
-2019-08-06,No,paid,fulfilled,1139511918628,1134,product,Australia,3067,Jessica Cook,First-time,,1381426495524,129.950,MENU:7642639,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,0.000,0.000,0.000,11.040,140.990,140.990,129.950,1,0.000,1
-2019-08-06,No,paid,fulfilled,1139920175140,1136,product,Australia,2065,Dave Raymond,First-time,,1385892413476,199.950,MENU:1960539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet,1,0.000,0.000,0.000,35.500,435.400,435.400,399.900,2,0.000,2
-2019-08-06,No,paid,fulfilled,1139920175140,1136,shipping,Australia,2065,Dave Raymond,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-06,No,paid,fulfilled,1139920175140,1136,product,Australia,2065,Dave Raymond,First-time,,1381433245732,139.970,MENU:1930539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet,1,0.000,0.000,0.000,24.850,304.790,304.790,279.940,2,0.000,2
-2019-08-07,No,paid,fulfilled,1140490207268,1137,product,United States,10003,Seth Friedman,First-time,,1368147197988,500.000,MENU:9445530,0,,,1,-300.000,0.000,0.000,161.500,1861.500,1861.500,1700.000,4,0.000,4
-2019-08-07,No,paid,fulfilled,1140955840548,1139,shipping,United States,06831,Jennifer Shannon,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,87.680,0.000,87.680,0.000,0.000,0,0.000,0
-2019-08-07,No,paid,fulfilled,1140955840548,1139,product,United States,06831,Jennifer Shannon,First-time,,1381427675172,224.950,MENU:1250539,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,0.000,449.900,449.900,449.900,2,0.000,2
-2019-08-07,No,paid,fulfilled,1140784234532,1138,shipping,United States,20002,Elisa Ortega,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-07,No,paid,fulfilled,1140784234532,1138,product,United States,20002,Elisa Ortega,First-time,,1381431115812,379.950,MENU:1300539,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,-56.990,0.000,0.000,0.000,322.960,322.960,322.960,1,0.000,1
-2019-08-07,No,paid,fulfilled,1140490207268,1137,shipping,United States,10003,Seth Friedman,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-08,No,paid,fulfilled,1143853350948,1146,shipping,Canada,H1X 1S2,Jean-Michel Caron,Returning,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,50.000,0.000,50.000,0.000,0.000,0,0.000,0
-2019-08-08,No,paid,fulfilled,1143853350948,1146,product,Canada,H1X 1S2,Jean-Michel Caron,Returning,,1381430198308,39.950,MENU:2024630,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,0.000,119.850,119.850,119.850,3,0.000,3
-2019-08-08,No,paid,fulfilled,1141849948196,1140,shipping,United States,94062,Iris Chen,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,11.590,0.000,11.590,0.000,0.000,0,0.000,0
-2019-08-08,No,partially_paid,fulfilled,1142324756516,1141,shipping,United States,10010,Tingko Chiu,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-08,No,paid,partial,1142428925988,1143,shipping,United States,06831,Jennifer Shannon,Returning,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-08,No,paid,fulfilled,1142720233508,1144,product,United States,11211,katja greeff,First-time,,1381428363300,59.950,MENU:4832539,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,5.320,65.270,65.270,59.950,1,0.000,1
-2019-08-08,No,paid,partial,1142399467556,1142,product,United States,68512,SARA DOWNES,First-time,,1381428756516,97.970,MENU:4764129,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,97.970,97.970,97.970,1,0.000,1
-2019-08-08,No,partially_paid,fulfilled,1142324756516,1141,product,United States,10010,Tingko Chiu,First-time,,1381432688676,274.950,MENU:1494639,0,www.google.com,https://www.google.com/,1,-41.240,0.000,0.000,20.750,254.460,254.460,233.710,1,0.000,1
-2019-08-08,No,paid,fulfilled,1141849948196,1140,product,United States,94062,Iris Chen,First-time,,1381429116964,90.970,MENU:4000019,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,8.420,99.390,99.390,90.970,1,0.000,1
-2019-08-08,No,paid,fulfilled,1143725752356,1145,product,United States,10014,Gabriela Gargano,First-time,,1381431050276,499.950,MENU:8010539,0,menudesignshop.com,http://menudesignshop.com/,1,-74.990,0.000,0.000,37.710,462.670,462.670,424.960,1,0.000,1
-2019-08-08,No,paid,fulfilled,1143853350948,1146,product,Canada,H1X 1S2,Jean-Michel Caron,Returning,,1381429968932,24.950,MENU:2031630,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,0.000,24.950,24.950,24.950,1,0.000,1
-2019-08-08,No,paid,partial,1142399467556,1142,product,United States,68512,SARA DOWNES,First-time,,1381428756516,69.970,MENU:4763119,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,69.970,69.970,69.970,1,0.000,1
-2019-08-08,No,paid,partial,1142399467556,1142,shipping,United States,68512,SARA DOWNES,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-08,No,paid,fulfilled,1142720233508,1144,shipping,United States,11211,katja greeff,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,67.180,5.960,73.140,0.000,0.000,0,0.000,0
-2019-08-08,No,paid,fulfilled,1143853350948,1146,product,Canada,H1X 1S2,Jean-Michel Caron,Returning,,1381430460452,27.950,MENU:2020630,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,0.000,27.950,27.950,27.950,1,0.000,1
-2019-08-08,No,paid,fulfilled,1143725752356,1145,shipping,United States,10014,Gabriela Gargano,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-08,No,paid,partial,1142428925988,1143,product,United States,06831,Jennifer Shannon,Returning,,1381430919204,34.970,MENU:4761539,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,0.000,34.970,34.970,34.970,1,0.000,1
-2019-08-08,No,paid,partial,1142428925988,1143,product,United States,06831,Jennifer Shannon,Returning,,1381433376804,84.950,MENU:4732929,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,0.000,84.950,84.950,84.950,1,0.000,1
-2019-08-09,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-10,No,paid,fulfilled,1146219003940,1147,shipping,Canada,J4G 2S1,Brigitte Ranger,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,50.000,0.000,50.000,0.000,0.000,0,0.000,0
-2019-08-10,No,paid,fulfilled,1146782253092,1148,product,United States,90038,Lauren Simpson,First-time,,0,104.970,MENU:3520539,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,9.970,114.940,114.940,104.970,1,0.000,1
-2019-08-10,No,paid,fulfilled,1146782253092,1148,product,United States,90038,Lauren Simpson,First-time,,1381429575716,174.970,MENU:8510539,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,16.630,191.600,191.600,174.970,1,0.000,1
-2019-08-10,No,paid,fulfilled,1146219003940,1147,product,Canada,J4G 2S1,Brigitte Ranger,First-time,,1381430919204,34.970,MENU:4761539,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,0.000,34.970,34.970,34.970,1,0.000,1
-2019-08-10,No,paid,fulfilled,1146782253092,1148,shipping,United States,90038,Lauren Simpson,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-10,No,paid,fulfilled,1148017639460,1149,shipping,United States,94117,Patrick McKenna,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-10,No,paid,fulfilled,1148017639460,1149,product,United States,94117,Patrick McKenna,First-time,,1497717014564,181.970,MENU:1800859,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,30.940,394.880,394.880,363.940,2,0.000,2
-2019-08-11,No,paid,fulfilled,1148249243684,1150,product,United States,11232,Cassie Spieler,First-time,,1381429575716,174.970,MENU:8510539,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,15.530,190.500,190.500,174.970,1,0.000,1
-2019-08-11,No,paid,fulfilled,1148249243684,1150,product,United States,11232,Cassie Spieler,First-time,,1381433409572,650.000,MENU:6900539,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,-97.500,0.000,0.000,49.030,601.530,601.530,552.500,1,0.000,1
-2019-08-11,No,paid,fulfilled,1148249243684,1150,shipping,United States,11232,Cassie Spieler,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-12,No,paid,fulfilled,1150495588388,1151,shipping,United States,10013,Gabriela Gargano,Returning,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/products/meet-bench,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-12,No,paid,fulfilled,1150598381604,1153,product,United States,78666,Peter Tschirhart,First-time,,1381431083044,600.000,MENU:1320539,0,,,1,0.000,0.000,0.000,0.000,600.000,600.000,600.000,1,0.000,1
-2019-08-12,No,paid,fulfilled,1150598381604,1153,shipping,United States,78666,Peter Tschirhart,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-12,No,refunded,unfulfilled,1137905664036,1130,shipping,United States,87508,Elaine Carson,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,-11.450,0.000,-11.450,0.000,0.000,0,0.000,0
-2019-08-12,No,paid,unfulfilled,1150579245092,1152,shipping,United States,92054,Philip Alexander,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-12,No,partially_refunded,fulfilled,1111712923684,1069,unknown,United States,12550,Jessica Williams,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/,0,0.000,-53.550,0.000,0.000,-53.550,0.000,-53.550,0,0.000,0
-2019-08-12,No,paid,unfulfilled,1150579245092,1152,product,United States,92054,Philip Alexander,First-time,,1381432295460,560.000,MENU:9520639-C2,0,,,1,-336.000,0.000,0.000,110.880,1454.880,1454.880,1344.000,3,0.000,3
-2019-08-12,No,refunded,unfulfilled,1137905664036,1130,product,United States,87508,Elaine Carson,First-time,,1381430132772,12.570,MENU:2011630,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,-12.570,0.000,-1.190,-13.760,0.000,-12.570,null,0.000,0
-2019-08-12,No,paid,fulfilled,1150495588388,1151,product,United States,10013,Gabriela Gargano,Returning,,1381429575716,174.970,MENU:8510539,0,store.menudesignshop.com,https://store.menudesignshop.com/products/meet-bench,1,0.000,0.000,0.000,15.530,190.500,190.500,174.970,1,0.000,1
-2019-08-13,No,paid,fulfilled,1152138248228,1154,shipping,Canada,V1Z 1P8,Marina Didyk,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,11.590,0.000,11.590,0.000,0.000,0,0.000,0
-2019-08-13,No,paid,fulfilled,1153671856164,1156,shipping,United States,85014,Jeremy Wallace,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-13,No,paid,fulfilled,1153671856164,1156,product,United States,85014,Jeremy Wallace,First-time,,1497717014564,181.970,MENU:1800859,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,0.000,363.940,363.940,363.940,2,0.000,2
-2019-08-13,No,paid,fulfilled,1153162936356,1155,shipping,Canada,V2V 1M7,Karen Touwslager,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,50.000,0.000,50.000,0.000,0.000,0,0.000,0
-2019-08-13,No,paid,fulfilled,1153162936356,1155,product,Canada,V2V 1M7,Karen Touwslager,First-time,,1381430755364,19.950,MENU:4534630,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,0.000,79.800,79.800,79.800,4,0.000,4
-2019-08-13,No,paid,fulfilled,1152138248228,1154,product,Canada,V1Z 1P8,Marina Didyk,First-time,,1381433737252,54.950,MENU:4680069,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,4.680,59.630,59.630,54.950,1,0.000,1
-2019-08-14,No,paid,fulfilled,1154075983908,1158,product,United States,60614,gabriela benincasa,First-time,,1381433966628,229.950,MENU:8700639,0,,,1,0.000,0.000,0.000,0.000,229.950,229.950,229.950,1,0.000,1
-2019-08-14,No,paid,fulfilled,1153960706084,1157,shipping,United States,92102,Jake Baet,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-14,No,paid,fulfilled,1154075983908,1158,shipping,United States,60614,gabriela benincasa,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-14,No,paid,fulfilled,1153960706084,1157,product,United States,92102,Jake Baet,First-time,,1497717014564,181.970,MENU:1800859,0,,,1,0.000,0.000,0.000,14.100,196.070,196.070,181.970,1,0.000,1
-2019-08-15,No,paid,fulfilled,1155879895076,1160,product,United States,10002,k wiilow ayers,First-time,,1381431246884,199.950,MENU:1755539,0,,,1,-89.980,0.000,0.000,45.240,555.110,555.110,509.870,3,0.000,3
-2019-08-15,No,paid,fulfilled,1155628204068,1159,product,United States,10024,David Mullman,First-time,,1381426495524,179.950,MENU:7643639,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,-44.980,0.000,0.000,11.980,146.950,146.950,134.970,1,0.000,1
-2019-08-15,No,paid,fulfilled,1155879895076,1160,shipping,United States,10002,k wiilow ayers,First-time,,0,0.000,,0,,,0,0.000,0.000,82.950,7.360,90.310,0.000,0.000,0,0.000,0
-2019-08-15,No,paid,fulfilled,1155988095012,1161,shipping,United States,97232,Angela Olson,Returning,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,8.660,0.000,8.660,0.000,0.000,0,0.000,0
-2019-08-15,No,paid,fulfilled,1155988095012,1161,product,United States,97232,Angela Olson,Returning,,1381427380260,59.950,MENU:4680839,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,0.000,59.950,59.950,59.950,1,0.000,1
-2019-08-15,Yes,refunded,unfulfilled,1108104773668,1049,shipping,United States,10009,Catherine Stein,First-time,,0,0.000,,0,,,0,0.000,0.000,-16.490,-1.460,-17.950,0.000,0.000,0,0.000,0
-2019-08-15,Yes,refunded,unfulfilled,1108104773668,1049,product,United States,10009,Catherine Stein,First-time,,1381430919204,49.950,MENU:4761539,0,,,0,0.000,-49.950,0.000,-4.440,-54.390,0.000,-49.950,null,0.000,0
-2019-08-15,No,paid,fulfilled,1155628204068,1159,shipping,United States,10024,David Mullman,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/,0,0.000,0.000,67.180,5.960,73.140,0.000,0.000,0,0.000,0
-2019-08-16,No,paid,fulfilled,1156882268196,1162,shipping,United States,45458-2967,MU KIM,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-16,No,partially_paid,fulfilled,1157432967204,1164,shipping,United States,93105,Jasmine Salinas,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-16,No,partially_paid,fulfilled,1157432967204,1164,product,United States,93105,Jasmine Salinas,First-time,,1381427445796,79.950,MENU:4418369,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,7.000,86.950,86.950,79.950,1,0.000,1
-2019-08-16,No,paid,fulfilled,1156882268196,1162,product,United States,45458-2967,MU KIM,First-time,,1381429575716,174.970,MENU:8510539,0,,,1,-35.000,0.000,0.000,0.000,139.970,139.970,139.970,1,0.000,1
-2019-08-16,No,paid,fulfilled,1156882268196,1162,product,United States,45458-2967,MU KIM,First-time,,1381433770020,59.950,MENU:4771539,0,,,1,-11.990,0.000,0.000,0.000,47.960,47.960,47.960,1,0.000,1
-2019-08-16,No,paid,fulfilled,1156882268196,1162,product,United States,45458-2967,MU KIM,First-time,,1381433933860,59.950,MENU:4774539,0,,,1,-11.980,0.000,0.000,0.000,47.970,47.970,47.970,1,0.000,1
-2019-08-16,No,paid,fulfilled,1157076418596,1163,shipping,United States,11201,Anastasia Pozdniakova,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-16,No,paid,fulfilled,1157076418596,1163,product,United States,11201,Anastasia Pozdniakova,First-time,,1381433901092,134.950,MENU:4775539,0,,,1,-26.990,0.000,0.000,9.580,117.540,117.540,107.960,1,0.000,1
-2019-08-16,No,paid,fulfilled,1157076418596,1163,product,United States,11201,Anastasia Pozdniakova,First-time,,1381426266148,19.950,MENU:9000839,0,,,1,-7.980,0.000,0.000,2.840,34.760,34.760,31.920,2,0.000,2
-2019-08-16,No,paid,fulfilled,1157553192996,1165,shipping,United States,44022,Gina Melton,First-time,,0,0.000,,0,,,0,0.000,0.000,67.180,0.000,67.180,0.000,0.000,0,0.000,0
-2019-08-16,No,paid,fulfilled,1157553192996,1165,product,United States,44022,Gina Melton,First-time,,1381432721444,269.950,MENU:1493939,0,,,1,0.000,0.000,0.000,0.000,809.850,809.850,809.850,3,0.000,3
-2019-08-16,No,partially_paid,fulfilled,1157432967204,1164,product,United States,93105,Jasmine Salinas,First-time,,1381430329380,31.470,MENU:2022630,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,2.750,34.220,34.220,31.470,1,0.000,1
-2019-08-16,No,partially_paid,fulfilled,1157432967204,1164,product,United States,93105,Jasmine Salinas,First-time,,1381430591524,13.970,MENU:2030010,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,1.220,15.190,15.190,13.970,1,0.000,1
-2019-08-17,No,paid,fulfilled,1158576930852,1167,product,United States,98199,Doug Reston,First-time,,1381429411876,399.950,MENU:8000639,0,,,1,0.000,0.000,0.000,0.000,399.950,399.950,399.950,1,0.000,1
-2019-08-17,No,paid,fulfilled,1158492356644,1166,product,Brazil,06539-170,MURILO GABRIELE,First-time,,1497717014564,181.970,MENU:1800859,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,16.150,198.120,198.120,181.970,1,0.000,1
-2019-08-17,No,paid,fulfilled,1158492356644,1166,shipping,Brazil,06539-170,MURILO GABRIELE,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-17,No,paid,fulfilled,1158576930852,1167,shipping,United States,98199,Doug Reston,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-18,No,paid,fulfilled,1160438448164,1168,shipping,United States,92067,Nancy Fletcher,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-18,Yes,voided,unfulfilled,1160636268580,1169,product,United States,10025,Mary Moritz,First-time,,1381433540644,55.970,MENU:4661139,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,0.000,55.970,55.970,55.970,1,0.000,1
-2019-08-18,Yes,voided,unfulfilled,1160636268580,1169,shipping,United States,10025,Mary Moritz,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,18.470,0.000,18.470,0.000,0.000,0,0.000,0
-2019-08-18,No,paid,fulfilled,1160438448164,1168,product,United States,92067,Nancy Fletcher,First-time,,1381427609636,179.950,MENU:4863539,0,,,1,0.000,0.000,0.000,55.790,775.590,775.590,719.800,4,0.000,4
-2019-08-19,Yes,voided,unfulfilled,1160636268580,1169,product,United States,10025,Mary Moritz,First-time,,1381433540644,55.970,MENU:4661139,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,-55.970,0.000,0.000,-55.970,0.000,-55.970,null,0.000,0
-2019-08-19,Yes,voided,unfulfilled,1160636268580,1169,shipping,United States,10025,Mary Moritz,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,-18.470,0.000,-18.470,0.000,0.000,0,0.000,0
-2019-08-20,No,paid,unfulfilled,1163397627940,1171,shipping,Canada,H2G 2W7,Veronique Geoffrion,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,64.980,0.000,64.980,0.000,0.000,0,0.000,0
-2019-08-20,No,paid,fulfilled,1163408277540,1172,shipping,United States,91789,Lena Sekine,First-time,,0,0.000,,0,,,0,0.000,0.000,11.450,0.000,11.450,0.000,0.000,0,0.000,0
-2019-08-20,Yes,voided,unfulfilled,1163259019300,1170,product,United States,92025,Julie Seybold,First-time,,1381433737252,54.950,MENU:4680069,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,0.000,-274.750,0.000,0.000,0.000,296.050,0.000,0,0.000,5
-2019-08-20,No,paid,fulfilled,1163646861348,1174,product,United States,10009,Catherine Stein,Returning,,1381430919204,34.970,MENU:4761539,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,6.210,76.150,76.150,69.940,2,0.000,2
-2019-08-20,No,paid,fulfilled,1163736678436,1175,shipping,United States,98004,Karissa Marker,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-20,No,paid,fulfilled,1163736678436,1175,product,United States,98004,Karissa Marker,First-time,,1381426724900,99.950,MENU:7640539,0,,,1,0.000,0.000,0.000,0.000,99.950,99.950,99.950,1,0.000,1
-2019-08-20,No,paid,fulfilled,1163646861348,1174,shipping,United States,10009,Catherine Stein,Returning,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,16.490,1.460,17.950,0.000,0.000,0,0.000,0
-2019-08-20,No,paid,fulfilled,1163430494244,1173,shipping,United States,91608,Pedro Ayala,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-20,No,paid,fulfilled,1163430494244,1173,product,United States,91608,Pedro Ayala,First-time,,1381429379108,249.950,MENU:1800129,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,23.740,273.690,273.690,249.950,1,0.000,1
-2019-08-20,No,paid,fulfilled,1163782291492,1176,product,United States,89148,Melissa Reese,First-time,,1381427445796,79.950,MENU:4418369,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,0.000,79.950,79.950,79.950,1,0.000,1
-2019-08-20,Yes,voided,unfulfilled,1163259019300,1170,shipping,United States,92025,Julie Seybold,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-20,No,paid,unfulfilled,1163397627940,1171,product,Canada,H2G 2W7,Veronique Geoffrion,First-time,,1381427642404,129.950,MENU:1211539,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,0.000,259.900,259.900,259.900,2,0.000,2
-2019-08-20,No,paid,fulfilled,1163408277540,1172,product,United States,91789,Lena Sekine,First-time,,1381428559908,34.970,MENU:1632139,0,,,1,0.000,0.000,0.000,3.330,38.300,38.300,34.970,1,0.000,1
-2019-08-20,No,paid,fulfilled,1163782291492,1176,shipping,United States,89148,Melissa Reese,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,11.450,0.000,11.450,0.000,0.000,0,0.000,0
-2019-08-21,No,paid,fulfilled,1164674105380,1177,product,United States,11249,Laura Haak,First-time,,1381427609636,249.950,MENU:4863839,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,0.000,249.950,249.950,249.950,1,0.000,1
-2019-08-21,No,paid,fulfilled,1164674105380,1177,shipping,United States,11249,Laura Haak,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-22,No,paid,fulfilled,1167099494436,1179,shipping,United States,37206,Colin Campbell,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/benches-daybeds,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-22,No,paid,unfulfilled,1168063856676,1182,shipping,United States,90503,Richard kim,First-time,,0,0.000,,0,instagram.com,http://instagram.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-22,No,paid,fulfilled,1167099494436,1179,product,United States,37206,Colin Campbell,First-time,,1381432786980,319.950,MENU:1491639,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/benches-daybeds,1,-95.980,0.000,0.000,0.000,543.920,543.920,543.920,2,0.000,2
-2019-08-22,No,paid,fulfilled,1167099494436,1179,product,United States,37206,Colin Campbell,First-time,,1381432360996,600.000,MENU:9500539-C2,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/benches-daybeds,1,-90.000,0.000,0.000,0.000,510.000,510.000,510.000,1,0.000,1
-2019-08-22,No,paid,unfulfilled,1166966030372,1178,product,Colombia,1100111,myriam martinez,First-time,,1381433180196,122.470,MENU:1910639,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,122.470,122.470,122.470,1,0.000,1
-2019-08-22,No,paid,fulfilled,1168151904292,1183,shipping,United States,11230,David Sandler,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-22,No,paid,unfulfilled,1168063856676,1182,product,United States,90503,Richard kim,First-time,,1497717014564,181.970,MENU:1800859,0,instagram.com,http://instagram.com/,1,0.000,0.000,0.000,34.580,398.520,398.520,363.940,2,0.000,2
-2019-08-22,No,paid,fulfilled,1168151904292,1183,product,United States,11230,David Sandler,First-time,,1381432819748,319.950,MENU:1492639,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,28.400,348.350,348.350,319.950,1,0.000,1
-2019-08-22,No,paid,fulfilled,1167230205988,1180,product,United States,66211,Jonathan Gentry,First-time,,1381430919204,34.970,MENU:4761539,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,3.330,38.300,38.300,34.970,1,0.000,1
-2019-08-22,No,paid,fulfilled,1167230205988,1180,shipping,United States,66211,Jonathan Gentry,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,8.400,0.000,8.400,0.000,0.000,0,0.000,0
-2019-08-22,No,paid,fulfilled,1167881437220,1181,product,United States,90064,Erick Shin,First-time,,1381432786980,459.950,MENU:1461639,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,43.700,503.650,503.650,459.950,1,0.000,1
-2019-08-22,No,paid,fulfilled,1167881437220,1181,shipping,United States,90064,Erick Shin,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-22,No,paid,unfulfilled,1166966030372,1178,shipping,Colombia,1100111,myriam martinez,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,55.810,0.000,55.810,0.000,0.000,0,0.000,0
-2019-08-23,No,paid,fulfilled,1169842765860,1188,product,United States,06883,Laura Edelson,First-time,,1381432688676,274.950,MENU:1494639,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,0.000,549.900,549.900,549.900,2,0.000,2
-2019-08-23,No,paid,fulfilled,1168849633316,1184,product,United States,98040,Gideon Yuval,First-time,,1381427609636,249.950,MENU:4863839,0,,,1,0.000,0.000,0.000,22.190,272.140,272.140,249.950,1,0.000,1
-2019-08-23,No,paid,fulfilled,1168849633316,1184,shipping,United States,98040,Gideon Yuval,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-23,No,paid,fulfilled,1169969020964,1190,shipping,United States,93908,Catherine Antle,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,11.590,0.000,11.590,0.000,0.000,0,0.000,0
-2019-08-23,No,paid,fulfilled,1169898176548,1189,shipping,United States,11225,dongning huang,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-23,No,paid,fulfilled,1169746821156,1187,product,United States,80221,Sophie Allen,First-time,,1381427445796,79.950,MENU:4418399,0,,,1,0.000,0.000,0.000,0.000,79.950,79.950,79.950,1,0.000,1
-2019-08-23,No,paid,fulfilled,1169969020964,1190,product,United States,93908,Catherine Antle,First-time,,1381427249188,89.950,MENU:7700129,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,0.000,0.000,0.000,6.970,96.920,96.920,89.950,1,0.000,1
-2019-08-23,No,paid,fulfilled,1169134616612,1186,shipping,United States,91423-4135,Stephen Beam,Returning,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-23,No,paid,fulfilled,1169746821156,1187,shipping,United States,80221,Sophie Allen,First-time,,0,0.000,,0,,,0,0.000,0.000,15.320,0.000,15.320,0.000,0.000,0,0.000,0
-2019-08-23,No,paid,fulfilled,1169842765860,1188,shipping,United States,06883,Laura Edelson,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-23,No,paid,unfulfilled,1169036771364,1185,product,United States,91423-4135,Stephen Beam,First-time,,1368147001380,69.950,MENU:8910579,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,6.640,76.590,76.590,69.950,1,0.000,1
-2019-08-23,No,paid,unfulfilled,1169036771364,1185,product,United States,91423-4135,Stephen Beam,First-time,,1381426921508,54.950,MENU:7710609,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,10.430,120.330,120.330,109.900,2,0.000,2
-2019-08-23,No,paid,unfulfilled,1169036771364,1185,product,United States,91423-4135,Stephen Beam,First-time,,1381431312420,49.950,MENU:4766639,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,4.740,54.690,54.690,49.950,1,0.000,1
-2019-08-23,No,paid,unfulfilled,1169036771364,1185,shipping,United States,91423-4135,Stephen Beam,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-23,No,paid,fulfilled,1169134616612,1186,product,United States,91423-4135,Stephen Beam,Returning,,1381427183652,399.950,MENU:8020639,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,75.990,875.890,875.890,799.900,2,0.000,2
-2019-08-23,No,paid,fulfilled,1169898176548,1189,product,United States,11225,dongning huang,First-time,,1381427609636,179.950,MENU:4863429,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,179.950,179.950,179.950,1,0.000,1
-2019-08-24,No,paid,unfulfilled,1171092537380,1193,product,United States,10011,Oswald Lee,First-time,,1381429411876,399.950,MENU:8000539,0,,,1,0.000,0.000,0.000,35.500,435.450,435.450,399.950,1,0.000,1
-2019-08-24,No,paid,fulfilled,1170509201444,1191,shipping,United States,11230,George Funk,First-time,,0,0.000,,0,duckduckgo.com,https://duckduckgo.com/,0,0.000,0.000,16.490,1.460,17.950,0.000,0.000,0,0.000,0
-2019-08-24,No,paid,unfulfilled,1171150831652,1194,product,United States,29407,Audreyole Parker,First-time,,1388542689316,55.970,MENU:4814539,0,,,1,0.000,0.000,0.000,0.000,55.970,55.970,55.970,1,0.000,1
-2019-08-24,No,paid,fulfilled,1171020447780,1192,shipping,United States,33040,Debra Butler,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/cart,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-24,No,paid,fulfilled,1171020447780,1192,product,United States,33040,Debra Butler,First-time,,1381427118116,59.950,MENU:7700639,0,store.menudesignshop.com,https://store.menudesignshop.com/cart,1,0.000,0.000,0.000,0.000,239.800,239.800,239.800,4,0.000,4
-2019-08-24,No,paid,fulfilled,1171020447780,1192,product,United States,33040,Debra Butler,First-time,,1381427249188,89.950,MENU:7700129,0,store.menudesignshop.com,https://store.menudesignshop.com/cart,1,0.000,0.000,0.000,0.000,89.950,89.950,89.950,1,0.000,1
-2019-08-24,No,paid,fulfilled,1170509201444,1191,product,United States,11230,George Funk,First-time,,1381430755364,19.950,MENU:4534530,0,duckduckgo.com,https://duckduckgo.com/,1,0.000,0.000,0.000,7.080,86.880,86.880,79.800,4,0.000,4
-2019-08-24,No,paid,fulfilled,1171499221028,1195,shipping,United States,94107,Serena Huang,First-time,,0,0.000,,0,,,0,0.000,0.000,11.590,0.000,11.590,0.000,0.000,0,0.000,0
-2019-08-24,No,paid,unfulfilled,1171092537380,1193,product,United States,10011,Oswald Lee,First-time,,1381426429988,700.000,MENU:7800589,0,,,1,0.000,0.000,0.000,62.130,762.130,762.130,700.000,1,0.000,1
-2019-08-24,No,paid,fulfilled,1171020447780,1192,product,United States,33040,Debra Butler,First-time,,1381427183652,399.950,MENU:8020539,0,store.menudesignshop.com,https://store.menudesignshop.com/cart,1,0.000,0.000,0.000,0.000,399.950,399.950,399.950,1,0.000,1
-2019-08-24,No,paid,unfulfilled,1171150831652,1194,product,United States,29407,Audreyole Parker,First-time,,1381431377956,55.970,MENU:4815539,0,,,1,0.000,0.000,0.000,0.000,55.970,55.970,55.970,1,0.000,1
-2019-08-24,No,paid,unfulfilled,1171150831652,1194,product,United States,29407,Audreyole Parker,First-time,,1388542623780,55.970,MENU:4812539,0,,,1,0.000,0.000,0.000,0.000,55.970,55.970,55.970,1,0.000,1
-2019-08-24,No,paid,unfulfilled,1171150831652,1194,product,United States,29407,Audreyole Parker,First-time,,1388542623780,55.970,MENU:4811839,0,,,1,0.000,0.000,0.000,0.000,55.970,55.970,55.970,1,0.000,1
-2019-08-24,No,paid,unfulfilled,1171150831652,1194,shipping,United States,29407,Audreyole Parker,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-24,No,paid,unfulfilled,1171092537380,1193,shipping,United States,10011,Oswald Lee,First-time,,0,0.000,,0,,,0,0.000,0.000,176.900,15.700,192.600,0.000,0.000,0,0.000,0
-2019-08-24,No,paid,fulfilled,1171499221028,1195,product,United States,94107,Serena Huang,First-time,,1381430919204,34.970,MENU:4761539,0,,,1,0.000,0.000,0.000,2.980,37.950,37.950,34.970,1,0.000,1
-2019-08-25,No,paid,unfulfilled,1171829030948,1196,product,United States,10014,Lauren Mowery,First-time,,1381429575716,174.970,MENU:8510539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet/products/pov-circle-vase,1,-35.000,0.000,0.000,11.200,151.170,151.170,139.970,1,0.000,1
-2019-08-25,No,paid,unfulfilled,1171829030948,1196,product,United States,10014,Lauren Mowery,First-time,,1381429379108,249.950,MENU:1800129,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet/products/pov-circle-vase,1,-49.990,0.000,0.000,16.000,215.960,215.960,199.960,1,0.000,1
-2019-08-25,No,paid,fulfilled,1172708818980,1200,product,United States,97209,Farhad Shakiba,First-time,,1381430755364,19.950,MENU:4534410,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/furniture,1,0.000,0.000,0.000,0.000,39.900,39.900,39.900,2,0.000,2
-2019-08-25,No,paid,fulfilled,1172134264868,1197,product,United States,11216,Chris Chan,First-time,,1502819909668,41.970,MENU:4771429,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,3.730,45.700,45.700,41.970,1,0.000,1
-2019-08-25,No,paid,unfulfilled,1172320485412,1198,product,United States,75088,Sean Lester,Returning,,1381428363300,59.950,MENU:4832539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/vases/products/cyclades-vase,1,0.000,0.000,0.000,0.000,59.950,59.950,59.950,1,0.000,1
-2019-08-25,No,paid,fulfilled,1172708818980,1200,product,United States,97209,Farhad Shakiba,First-time,,1381426429988,700.000,MENU:7800589,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/furniture,1,0.000,0.000,0.000,0.000,700.000,700.000,700.000,1,0.000,1
-2019-08-25,No,paid,unfulfilled,1172320485412,1198,product,United States,75088,Sean Lester,Returning,,1381433933860,59.950,MENU:4774539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/vases/products/cyclades-vase,1,0.000,0.000,0.000,0.000,119.900,119.900,119.900,2,0.000,2
-2019-08-25,No,paid,fulfilled,1172562968612,1199,product,United States,11217,Adam Rahal,First-time,,1381427314724,69.970,MENU:1400189,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,12.420,152.360,152.360,139.940,2,0.000,2
-2019-08-25,No,paid,unfulfilled,1172320485412,1198,product,United States,75088,Sean Lester,Returning,,1381430591524,16.770,MENU:2030030,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/vases/products/cyclades-vase,1,0.000,0.000,0.000,0.000,67.080,67.080,67.080,4,0.000,4
-2019-08-25,No,paid,fulfilled,1172562968612,1199,product,United States,11217,Adam Rahal,First-time,,1381427314724,69.970,MENU:1400129,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,18.640,228.550,228.550,209.910,3,0.000,3
-2019-08-25,No,paid,unfulfilled,1172320485412,1198,shipping,United States,75088,Sean Lester,Returning,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/vases/products/cyclades-vase,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-25,No,paid,fulfilled,1172134264868,1197,product,United States,11216,Chris Chan,First-time,,1502819909668,27.970,MENU:4770429,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,2.480,30.450,30.450,27.970,1,0.000,1
-2019-08-25,No,paid,fulfilled,1172562968612,1199,shipping,United States,11217,Adam Rahal,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-25,No,paid,unfulfilled,1172320485412,1198,product,United States,75088,Sean Lester,Returning,,1381431377956,55.970,MENU:4815539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/vases/products/cyclades-vase,1,0.000,0.000,0.000,0.000,55.970,55.970,55.970,1,0.000,1
-2019-08-25,No,paid,unfulfilled,1171829030948,1196,shipping,United States,10014,Lauren Mowery,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet/products/pov-circle-vase,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-25,No,paid,unfulfilled,1172320485412,1198,product,United States,75088,Sean Lester,Returning,,1381433770020,59.950,MENU:4771539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/vases/products/cyclades-vase,1,0.000,0.000,0.000,0.000,59.950,59.950,59.950,1,0.000,1
-2019-08-25,No,paid,unfulfilled,1172320485412,1198,product,United States,75088,Sean Lester,Returning,,1381433770020,39.950,MENU:4770539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/vases/products/cyclades-vase,1,0.000,0.000,0.000,0.000,39.950,39.950,39.950,1,0.000,1
-2019-08-25,No,paid,unfulfilled,1171829030948,1196,product,United States,10014,Lauren Mowery,First-time,,1381427609636,179.950,MENU:4863349,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet/products/pov-circle-vase,1,-35.990,0.000,0.000,11.520,155.480,155.480,143.960,1,0.000,1
-2019-08-25,No,paid,unfulfilled,1171829030948,1196,product,United States,10014,Lauren Mowery,First-time,,1497717014564,181.970,MENU:1800859,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet/products/pov-circle-vase,1,-36.390,0.000,0.000,11.640,157.220,157.220,145.580,1,0.000,1
-2019-08-25,No,paid,unfulfilled,1171829030948,1196,product,United States,10014,Lauren Mowery,First-time,,1381428264996,269.950,MENU:8520539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet/products/pov-circle-vase,1,-53.980,0.000,0.000,17.280,233.250,233.250,215.970,1,0.000,1
-2019-08-25,No,paid,fulfilled,1172134264868,1197,product,United States,11216,Chris Chan,First-time,,1502819942436,41.970,MENU:4774429,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,3.730,45.700,45.700,41.970,1,0.000,1
-2019-08-25,No,paid,fulfilled,1172708818980,1200,shipping,United States,97209,Farhad Shakiba,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/furniture,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-25,No,paid,fulfilled,1172134264868,1197,shipping,United States,11216,Chris Chan,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-26,No,paid,unfulfilled,1173114486820,1201,shipping,United States,10016,Andrew Harris,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/lighting/products/peek-floor-lamp,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-26,No,paid,fulfilled,1173968683044,1203,shipping,United States,11249,Nicolette Abbatangelo,First-time,,0,0.000,,0,instagram.com,http://instagram.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-26,No,paid,fulfilled,1174070919204,1204,product,United States,10007,Bart Rosenthal,First-time,,1381431083044,600.000,MENU:1320539,0,,,1,0.000,0.000,0.000,53.250,653.250,653.250,600.000,1,0.000,1
-2019-08-26,No,paid,fulfilled,1174070919204,1204,shipping,United States,10007,Bart Rosenthal,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-26,No,paid,fulfilled,1173508325412,1202,product,United States,10013-3513,Candace Rimes,First-time,,1381432066084,199.950,MENU:4727839,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,-49.990,0.000,0.000,13.310,163.270,163.270,149.960,1,0.000,1
-2019-08-26,No,paid,fulfilled,1173508325412,1202,shipping,United States,10013-3513,Candace Rimes,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,62.160,5.520,67.680,0.000,0.000,0,0.000,0
-2019-08-26,No,paid,fulfilled,1173968683044,1203,product,United States,11249,Nicolette Abbatangelo,First-time,,1381433638948,99.950,MENU:4736039,0,instagram.com,http://instagram.com/,1,0.000,0.000,0.000,17.750,217.650,217.650,199.900,2,0.000,2
-2019-08-26,No,paid,unfulfilled,1173114486820,1201,product,United States,10016,Andrew Harris,First-time,,1381431083044,600.000,MENU:1320539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/lighting/products/peek-floor-lamp,1,0.000,0.000,0.000,50.250,650.250,650.250,600.000,1,0.000,1
-2019-08-26,No,paid,fulfilled,1173508325412,1202,product,United States,10013-3513,Candace Rimes,First-time,,1381431967780,279.950,MENU:1750839,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,-139.970,0.000,0.000,37.270,457.200,457.200,419.930,2,0.000,2
-2019-08-27,No,paid,fulfilled,1175281827876,1208,shipping,United States,90049,DAVID FRANDZEL,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-27,No,paid,unfulfilled,1174608117796,1205,product,United States,75208,Erin Sander,First-time,,1368147197988,500.000,MENU:9445530,0,,,1,0.000,0.000,0.000,0.000,2500.000,2500.000,2500.000,5,0.000,5
-2019-08-27,No,paid,unfulfilled,1174608117796,1205,shipping,United States,75208,Erin Sander,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-27,No,paid,unfulfilled,1174755835940,1206,product,Canada,M4T 2Y7,Suzanne Walters,First-time,,1381427380260,59.950,MENU:4680839,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,239.800,239.800,239.800,4,0.000,4
-2019-08-27,No,paid,unfulfilled,1174755835940,1206,shipping,Canada,M4T 2Y7,Suzanne Walters,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,59.950,0.000,59.950,0.000,0.000,0,0.000,0
-2019-08-27,No,paid,fulfilled,1175135092772,1207,product,United States,23220,Rachel Lee,First-time,,1381433933860,59.950,MENU:4774639,0,,,1,0.000,0.000,0.000,0.000,59.950,59.950,59.950,1,0.000,1
-2019-08-27,No,paid,fulfilled,1175135092772,1207,product,United States,23220,Rachel Lee,First-time,,1381433770020,59.950,MENU:4771639,0,,,1,0.000,0.000,0.000,0.000,59.950,59.950,59.950,1,0.000,1
-2019-08-27,No,paid,fulfilled,1175135092772,1207,shipping,United States,23220,Rachel Lee,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-27,No,paid,fulfilled,1175281827876,1208,product,United States,90049,DAVID FRANDZEL,First-time,,1381433081892,298.170,MENU:1936859,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,84.990,979.500,979.500,894.510,3,0.000,3
-2019-08-28,,,,0,,,,,,,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-29,No,paid,fulfilled,1178361823268,1210,shipping,United States,91423-4135,Stephen Beam,Returning,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-29,No,paid,fulfilled,1178312343588,1209,shipping,United States,90291,Anthony Weege,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/pendants-chandeliers/products/tribeca-leonard-chandelier,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-29,No,partially_paid,partial,1178497286180,1211,product,United States,85260,lindsey Mulder,First-time,,1388523094052,1145.000,9363250U,0,menudesignshop.com,http://menudesignshop.com/,1,-2289.990,0.000,0.000,0.000,9160.010,9160.010,9160.010,10,0.000,10
-2019-08-29,No,paid,fulfilled,1178312343588,1209,product,United States,90291,Anthony Weege,First-time,,1381433180196,327.570,MENU:1910539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/pendants-chandeliers/products/tribeca-leonard-chandelier,1,-131.020,0.000,0.000,18.670,215.220,215.220,196.550,1,0.000,1
-2019-08-29,No,partially_paid,partial,1178497286180,1211,shipping,United States,85260,lindsey Mulder,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-29,No,partially_paid,partial,1178497286180,1211,product,United States,85260,lindsey Mulder,First-time,,1381432885284,314.970,MENU:1980839,0,menudesignshop.com,http://menudesignshop.com/,1,-125.990,0.000,0.000,0.000,503.950,503.950,503.950,2,0.000,2
-2019-08-29,No,partially_paid,partial,1178497286180,1211,product,United States,85260,lindsey Mulder,First-time,,1381427609636,179.950,MENU:4863429,0,menudesignshop.com,http://menudesignshop.com/,1,-35.990,0.000,0.000,0.000,143.960,143.960,143.960,1,0.000,1
-2019-08-29,No,partially_paid,partial,1178497286180,1211,product,United States,85260,lindsey Mulder,First-time,,1381430919204,34.970,MENU:4761539,0,menudesignshop.com,http://menudesignshop.com/,1,-27.980,0.000,0.000,0.000,111.900,111.900,111.900,4,0.000,4
-2019-08-29,No,paid,partial,1178802454564,1212,product,United States,92163,Lawrence Howard,First-time,,1381428658212,149.950,MENU:4799949,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,0.000,0.000,0.000,34.860,484.710,484.710,449.850,3,0.000,3
-2019-08-29,No,paid,partial,1178802454564,1212,product,United States,92163,Lawrence Howard,First-time,,1381428723748,625.000,MENU:4797949,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,0.000,0.000,0.000,145.320,2020.320,2020.320,1875.000,3,0.000,3
-2019-08-29,No,paid,partial,1178802454564,1212,shipping,United States,92163,Lawrence Howard,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-29,No,paid,fulfilled,1178361823268,1210,product,United States,91423-4135,Stephen Beam,Returning,,1381427183652,399.950,MENU:8020639,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,38.000,437.950,437.950,399.950,1,0.000,1
-2019-08-29,No,paid,fulfilled,1178361823268,1210,product,United States,91423-4135,Stephen Beam,Returning,,1381426921508,54.950,MENU:7710609,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,20.890,240.690,240.690,219.800,4,0.000,4
-2019-08-29,No,partially_paid,partial,1178497286180,1211,product,United States,85260,lindsey Mulder,First-time,,1381429116964,90.970,MENU:4000019,0,menudesignshop.com,http://menudesignshop.com/,1,-18.200,0.000,0.000,0.000,72.770,72.770,72.770,1,0.000,1
-2019-08-29,No,partially_paid,partial,1178497286180,1211,product,United States,85260,lindsey Mulder,First-time,,1381433737252,54.950,MENU:4680069,0,menudesignshop.com,http://menudesignshop.com/,1,-21.970,0.000,0.000,0.000,87.930,87.930,87.930,2,0.000,2
-2019-08-30,No,paid,fulfilled,1179238563876,1213,product,United States,19103,Lauren Thomsen,First-time,,1381431050276,499.950,MENU:8010639,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,0.000,499.950,499.950,499.950,1,0.000,1
-2019-08-30,No,paid,fulfilled,1179238563876,1213,shipping,United States,19103,Lauren Thomsen,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-30,No,paid,unfulfilled,1179950907428,1214,product,United States,02210,Yuan-Hsun Tang,First-time,,1381430132772,12.570,MENU:2011630,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,0.000,50.280,50.280,50.280,4,0.000,4
-2019-08-30,No,paid,unfulfilled,1179950907428,1214,product,United States,02210,Yuan-Hsun Tang,First-time,,1381429772324,49.950,MENU:2018940,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,0.000,199.800,199.800,199.800,4,0.000,4
-2019-08-30,No,authorized,unfulfilled,1180772368420,1215,shipping,United States,90025,Max Kellerman,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-30,No,authorized,unfulfilled,1180772368420,1215,product,United States,90025,Max Kellerman,First-time,,1381429215268,1200.000,MENU:9317659,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,106.500,1306.500,1306.500,1200.000,1,0.000,1
-2019-08-30,No,authorized,unfulfilled,1180772368420,1215,product,United States,90025,Max Kellerman,First-time,,1381427249188,89.950,MENU:7700129,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,7.990,97.940,97.940,89.950,1,0.000,1
-2019-08-30,No,authorized,unfulfilled,1180772368420,1215,product,United States,90025,Max Kellerman,First-time,,1381428133924,179.950,MENU:1880869,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,15.970,195.920,195.920,179.950,1,0.000,1
-2019-08-30,No,authorized,unfulfilled,1180772368420,1215,product,United States,90025,Max Kellerman,First-time,,1497348603940,367.500,MENU:9455111,0,menudesignshop.com,http://menudesignshop.com/,1,0.000,0.000,0.000,130.460,1600.460,1600.460,1470.000,4,0.000,4
-2019-08-30,No,paid,unfulfilled,1179950907428,1214,shipping,United States,02210,Yuan-Hsun Tang,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-31,No,paid,unfulfilled,1181449715748,1221,shipping,United States,94107,Jessica Chan,Returning,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-31,No,paid,unfulfilled,1181449715748,1221,product,United States,94107,Jessica Chan,Returning,,1381431377956,55.970,MENU:4815539,0,,,1,-11.190,0.000,0.000,3.810,48.590,48.590,44.780,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181489725476,1222,product,United States,01351,Anne Aune,First-time,,1381427445796,79.950,MENU:4418399,0,,,1,0.000,0.000,0.000,0.000,79.950,79.950,79.950,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181489725476,1222,shipping,United States,01351,Anne Aune,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-31,No,authorized,unfulfilled,1181889265700,1224,product,United States,91326,Jeongim nihS,First-time,,1388542623780,47.970,MENU:4812539,0,,,1,-9.590,0.000,0.000,3.640,42.020,42.020,38.380,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1180952494116,1216,product,United States,02127,Celia Pedersen,First-time,,1381428822052,14.980,MENU:2500639,0,,,1,0.000,0.000,0.000,0.000,14.980,14.980,14.980,1,0.000,1
-2019-08-31,No,paid,unfulfilled,1181358948388,1219,product,United States,20001,Stephen Gye,First-time,,1381429641252,55.970,MENU:3750039,0,,,1,-11.190,0.000,0.000,0.000,44.780,44.780,44.780,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1180952494116,1216,product,United States,02127,Celia Pedersen,First-time,,1381433245732,59.980,MENU:1930539,0,,,1,0.000,0.000,0.000,0.000,59.980,59.980,59.980,1,0.000,1
-2019-08-31,No,paid,unfulfilled,1182133387300,1225,product,United States,94602,Steph Moore,First-time,,1381429411876,399.950,MENU:8000539,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,37.000,436.950,436.950,399.950,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181889265700,1224,product,United States,91326,Jeongim nihS,First-time,,1381427478564,160.970,MENU:3530539,0,,,1,-32.200,0.000,0.000,12.240,141.010,141.010,128.770,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181889265700,1224,product,United States,91326,Jeongim nihS,First-time,,1381433966628,169.950,MENU:8600639,0,,,1,-33.990,0.000,0.000,12.920,148.880,148.880,135.960,1,0.000,1
-2019-08-31,No,paid,unfulfilled,1181167648804,1217,product,United States,98074,McKenna Dean,First-time,,1381433245732,59.980,MENU:1930539,0,,,1,0.000,0.000,0.000,5.320,65.300,65.300,59.980,1,0.000,1
-2019-08-31,No,paid,unfulfilled,1182133387300,1225,shipping,United States,94602,Steph Moore,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-31,No,authorized,unfulfilled,1181403971620,1220,product,United States,11205,Alina Fassakhova,First-time,,1497717014564,181.970,MENU:1800859,0,,,1,-36.390,0.000,0.000,12.920,158.500,158.500,145.580,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181756751908,1223,product,United States,78704,Derrick Wansom,First-time,,1381432885284,134.980,MENU:1980839,0,,,1,-26.990,0.000,0.000,0.000,107.990,107.990,107.990,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181756751908,1223,product,United States,78704,Derrick Wansom,First-time,,1505047019556,13.770,MENU:2032710,0,,,1,-11.020,0.000,0.000,0.000,44.060,44.060,44.060,4,0.000,4
-2019-08-31,No,authorized,unfulfilled,1180952494116,1216,product,United States,02127,Celia Pedersen,First-time,,1381427314724,29.980,MENU:1400189,0,,,1,0.000,0.000,0.000,0.000,29.980,29.980,29.980,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181403971620,1220,shipping,United States,11205,Alina Fassakhova,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-31,No,paid,unfulfilled,1181449715748,1221,product,United States,94107,Jessica Chan,Returning,,1502819909668,19.980,MENU:4770429,0,,,1,-3.990,0.000,0.000,1.360,17.350,17.350,15.990,1,0.000,1
-2019-08-31,No,paid,unfulfilled,1181167648804,1217,shipping,United States,98074,McKenna Dean,First-time,,0,0.000,,0,,,0,0.000,0.000,16.450,1.460,17.910,0.000,0.000,0,0.000,0
-2019-08-31,No,authorized,unfulfilled,1181321396260,1218,product,United States,77346,Lisa Stublar,Returning,,1381431377956,77.970,MENU:4815839,0,,,1,-15.590,0.000,0.000,0.000,62.380,62.380,62.380,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181889265700,1224,product,United States,91326,Jeongim nihS,First-time,,1381431377956,55.970,MENU:4815539,0,,,1,-11.190,0.000,0.000,4.260,49.040,49.040,44.780,1,0.000,1
-2019-08-31,No,paid,unfulfilled,1181449715748,1221,product,United States,94107,Jessica Chan,Returning,,1502819942436,29.980,MENU:4774429,0,,,1,-6.000,0.000,0.000,2.040,26.020,26.020,23.980,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181889265700,1224,shipping,United States,91326,Jeongim nihS,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-31,No,authorized,unfulfilled,1181756751908,1223,product,United States,78704,Derrick Wansom,First-time,,1502819909668,29.980,MENU:4771429,0,,,1,-6.000,0.000,0.000,0.000,23.980,23.980,23.980,1,0.000,1
-2019-08-31,No,paid,unfulfilled,1181358948388,1219,shipping,United States,20001,Stephen Gye,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-31,No,authorized,unfulfilled,1181756751908,1223,product,United States,78704,Derrick Wansom,First-time,,1381430329380,31.470,MENU:2022630,0,,,1,-6.290,0.000,0.000,0.000,25.180,25.180,25.180,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1180952494116,1216,shipping,United States,02127,Celia Pedersen,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-08-31,No,paid,unfulfilled,1181358948388,1219,product,United States,20001,Stephen Gye,First-time,,1381427478564,160.970,MENU:3530539,0,,,1,-32.190,0.000,0.000,0.000,128.780,128.780,128.780,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181756751908,1223,product,United States,78704,Derrick Wansom,First-time,,1381430919204,34.970,MENU:4761539,0,,,1,-6.990,0.000,0.000,0.000,27.980,27.980,27.980,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181756751908,1223,product,United States,78704,Derrick Wansom,First-time,,1502819942436,29.980,MENU:4774429,0,,,1,-12.000,0.000,0.000,0.000,47.960,47.960,47.960,2,0.000,2
-2019-08-31,No,authorized,unfulfilled,1181489725476,1222,product,United States,01351,Anne Aune,First-time,,1381427445796,79.950,MENU:4418299,0,,,1,0.000,0.000,0.000,0.000,79.950,79.950,79.950,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181756751908,1223,product,United States,78704,Derrick Wansom,First-time,,1381429968932,24.950,MENU:2031940,0,,,1,-9.970,0.000,0.000,0.000,39.930,39.930,39.930,2,0.000,2
-2019-08-31,No,authorized,unfulfilled,1181756751908,1223,product,United States,78704,Derrick Wansom,First-time,,1381433245732,74.980,MENU:1930839,0,,,1,-15.000,0.000,0.000,0.000,59.980,59.980,59.980,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181756751908,1223,product,United States,78704,Derrick Wansom,First-time,,1381429280804,87.470,MENU:3400039,0,,,1,-17.500,0.000,0.000,0.000,69.970,69.970,69.970,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181321396260,1218,shipping,United States,77346,Lisa Stublar,Returning,,0,0.000,,0,,,0,0.000,0.000,13.170,0.000,13.170,0.000,0.000,0,0.000,0
-2019-08-31,No,authorized,unfulfilled,1181756751908,1223,product,United States,78704,Derrick Wansom,First-time,,1381429968932,24.950,MENU:2031710,0,,,1,-9.970,0.000,0.000,0.000,39.930,39.930,39.930,2,0.000,2
-2019-08-31,No,authorized,unfulfilled,1181756751908,1223,product,United States,78704,Derrick Wansom,First-time,,1381430591524,11.980,MENU:2030030,0,,,1,-2.400,0.000,0.000,0.000,9.580,9.580,9.580,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181756751908,1223,product,United States,78704,Derrick Wansom,First-time,,1502819909668,34.980,MENU:4772429,0,,,1,-7.000,0.000,0.000,0.000,27.980,27.980,27.980,1,0.000,1
-2019-08-31,No,authorized,unfulfilled,1181756751908,1223,shipping,United States,78704,Derrick Wansom,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-01,No,paid,unfulfilled,1182796677156,1230,product,United States,94134,Carlos Rodriguez,First-time,,1381431377956,55.970,MENU:4815539,0,,,1,-11.190,0.000,0.000,3.810,48.590,48.590,44.780,1,0.000,1
-2019-09-01,No,authorized,unfulfilled,1182758109220,1229,shipping,United States,91105,Liz Falletta,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-01,No,authorized,unfulfilled,1182557339684,1227,product,United States,10280,Lauren Ashwell,First-time,,1381427609636,179.950,MENU:4863639,0,,,1,0.000,0.000,0.000,15.970,195.920,195.920,179.950,1,0.000,1
-2019-09-01,No,authorized,unfulfilled,1182758109220,1229,product,United States,91105,Liz Falletta,First-time,,1381432885284,134.980,MENU:1980839,0,,,1,-53.980,0.000,0.000,22.140,238.120,238.120,215.980,2,0.000,2
-2019-09-01,No,authorized,unfulfilled,1182758109220,1229,product,United States,91105,Liz Falletta,First-time,,1381431541796,79.980,MENU:80000015,0,,,1,-16.000,0.000,0.000,6.560,70.540,70.540,63.980,1,0.000,1
-2019-09-01,No,paid,unfulfilled,1182520442916,1226,product,United States,10036,Neil Jacobs,First-time,,1381427314724,59.970,MENU:1400539,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,10.650,130.590,130.590,119.940,2,0.000,2
-2019-09-01,No,paid,unfulfilled,1182944559140,1232,product,Canada,M4M 0A6,Martin Ryan,First-time,,1381432885284,134.980,MENU:1980839,0,menudesignshop.com,http://menudesignshop.com/,1,-53.990,0.000,0.000,0.000,215.970,215.970,215.970,2,0.000,2
-2019-09-01,No,paid,unfulfilled,1182944559140,1232,shipping,Canada,M4M 0A6,Martin Ryan,First-time,,0,0.000,,0,menudesignshop.com,http://menudesignshop.com/,0,0.000,0.000,67.490,0.000,67.490,0.000,0.000,0,0.000,0
-2019-09-01,No,authorized,unfulfilled,1182557339684,1227,shipping,United States,10280,Lauren Ashwell,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-01,No,authorized,unfulfilled,1182921523236,1231,shipping,United States,10011,Judy Wellfare,First-time,,0,0.000,,0,www.menudesignshop.com,http://www.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-01,No,partially_paid,unfulfilled,1182602887204,1228,product,United States,77494,Henriette Holdhus,First-time,,1388542623780,47.970,MENU:4811839,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,47.970,47.970,47.970,1,0.000,1
-2019-09-01,No,paid,unfulfilled,1182796677156,1230,shipping,United States,94134,Carlos Rodriguez,First-time,,0,0.000,,0,,,0,0.000,0.000,11.560,0.000,11.560,0.000,0.000,0,0.000,0
-2019-09-01,No,partially_paid,unfulfilled,1182602887204,1228,shipping,United States,77494,Henriette Holdhus,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-01,No,partially_paid,unfulfilled,1182602887204,1228,product,United States,77494,Henriette Holdhus,First-time,,1388542623780,77.970,MENU:4812839,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,77.970,77.970,77.970,1,0.000,1
-2019-09-01,No,paid,unfulfilled,1182520442916,1226,shipping,United States,10036,Neil Jacobs,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-01,No,authorized,unfulfilled,1182921523236,1231,product,United States,10011,Judy Wellfare,First-time,,1381432885284,134.980,MENU:1980839,0,www.menudesignshop.com,http://www.menudesignshop.com/,1,-26.990,0.000,0.000,9.580,117.570,117.570,107.990,1,0.000,1
-2019-09-01,No,partially_paid,unfulfilled,1182602887204,1228,product,United States,77494,Henriette Holdhus,First-time,,1381431377956,77.970,MENU:4815839,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,77.970,77.970,77.970,1,0.000,1
-2019-09-02,No,authorized,unfulfilled,1185209319460,1237,shipping,United States,43202,Eliza Ho,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-02,No,authorized,unfulfilled,1185245495332,1238,shipping,United States,95624,Kim Vu,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-02,No,authorized,unfulfilled,1185469661220,1243,product,United States,94044,Matt Bateman,First-time,,1381430132772,17.470,MENU:2012630,0,www.google.com,https://www.google.com/,1,-6.990,0.000,0.000,2.590,30.540,30.540,27.950,2,0.000,2
-2019-09-02,No,authorized,unfulfilled,1185290944548,1239,shipping,United States,90245,Shuko Clouse,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-02,No,authorized,unfulfilled,1185245495332,1238,product,United States,95624,Kim Vu,First-time,,1381431377956,55.970,MENU:4815539,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,-11.190,0.000,0.000,3.470,48.250,48.250,44.780,1,0.000,1
-2019-09-02,No,authorized,unfulfilled,1185469661220,1243,product,United States,94044,Matt Bateman,First-time,,1381430591524,11.980,MENU:2030030,0,www.google.com,https://www.google.com/,1,-9.580,0.000,0.000,3.550,41.890,41.890,38.340,4,0.000,4
-2019-09-02,No,authorized,unfulfilled,1185209319460,1237,product,United States,43202,Eliza Ho,First-time,,1381433114660,285.000,MENU:1937859,0,,,1,-114.000,0.000,0.000,0.000,456.000,456.000,456.000,2,0.000,2
-2019-09-02,No,authorized,unfulfilled,1185469661220,1243,product,United States,94044,Matt Bateman,First-time,,1381430132772,10.770,MENU:2011630,0,www.google.com,https://www.google.com/,1,-4.310,0.000,0.000,1.580,18.810,18.810,17.230,2,0.000,2
-2019-09-02,No,authorized,unfulfilled,1185245495332,1238,product,United States,95624,Kim Vu,First-time,,1502819909668,29.980,MENU:4771429,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,-11.990,0.000,0.000,3.720,51.690,51.690,47.970,2,0.000,2
-2019-09-02,No,authorized,unfulfilled,1185209319460,1237,product,United States,43202,Eliza Ho,First-time,,1502819909668,34.980,MENU:4772429,0,,,1,-13.990,0.000,0.000,0.000,55.970,55.970,55.970,2,0.000,2
-2019-09-02,No,authorized,unfulfilled,1185469661220,1243,product,United States,94044,Matt Bateman,First-time,,1505047019556,22.370,MENU:2017710,0,www.google.com,https://www.google.com/,1,-8.940,0.000,0.000,3.320,39.120,39.120,35.800,2,0.000,2
-2019-09-02,No,authorized,unfulfilled,1185051181092,1235,product,Canada,H2V1L8,Gregory Doble,First-time,,1381432393764,71.970,MENU:4801539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet/products/bollard-lamp,1,0.000,0.000,0.000,0.000,71.970,71.970,71.970,1,0.000,1
-2019-09-02,No,authorized,unfulfilled,1185321877540,1240,product,United States,10017,Yi Huang,First-time,,1381431541796,79.980,MENU:80000015,0,,,1,-15.990,0.000,0.000,5.680,69.670,69.670,63.990,1,0.000,1
-2019-09-02,No,authorized,unfulfilled,1185245495332,1238,product,United States,95624,Kim Vu,First-time,,1502819942436,29.980,MENU:4774429,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,-17.990,0.000,0.000,5.580,77.530,77.530,71.950,3,0.000,3
-2019-09-02,No,authorized,unfulfilled,1185321877540,1240,product,United States,10017,Yi Huang,First-time,,1381427314724,29.980,MENU:1400189,0,,,1,-5.990,0.000,0.000,2.130,26.120,26.120,23.990,1,0.000,1
-2019-09-02,No,authorized,unfulfilled,1185051181092,1235,product,Canada,H2V1L8,Gregory Doble,First-time,,1497260851236,104.970,MENU:3520539,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet/products/bollard-lamp,1,-41.980,0.000,0.000,0.000,167.960,167.960,167.960,2,0.000,2
-2019-09-02,No,authorized,unfulfilled,1185209319460,1237,product,United States,43202,Eliza Ho,First-time,,1381433933860,29.980,MENU:4774429,0,,,1,0.000,0.000,0.000,0.000,59.960,59.960,59.960,2,0.000,2
-2019-09-02,No,authorized,unfulfilled,1185051181092,1235,shipping,Canada,H2V1L8,Gregory Doble,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet/products/bollard-lamp,0,0.000,0.000,70.480,0.000,70.480,0.000,0.000,0,0.000,0
-2019-09-02,No,authorized,unfulfilled,1185290944548,1239,product,United States,90245,Shuko Clouse,First-time,,1381427478564,160.970,MENU:3530539,0,,,1,-32.190,0.000,0.000,12.240,141.020,141.020,128.780,1,0.000,1
-2019-09-02,No,authorized,unfulfilled,1185408909348,1242,product,United States,90004,Edward Line,First-time,,1571849044004,40.750,MENU:Part:50118,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,0.000,0.000,0.000,23.230,267.730,267.730,244.500,6,0.000,6
-2019-09-02,No,authorized,unfulfilled,1185245495332,1238,product,United States,95624,Kim Vu,First-time,,1388542689316,77.970,MENU:4814839,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,-15.600,0.000,0.000,4.830,67.200,67.200,62.370,1,0.000,1
-2019-09-02,No,authorized,unfulfilled,1185066549284,1236,product,United States,11221,Isabel Barrera,First-time,,1381431967780,279.950,MENU:1750839,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/lighting/products/socket-occasional-table-lamp,1,0.000,0.000,0.000,24.850,304.800,304.800,279.950,1,0.000,1
-2019-09-02,No,authorized,unfulfilled,1184354369572,1233,shipping,United States,11238,Terence Walshe,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-02,No,authorized,unfulfilled,1185066549284,1236,shipping,United States,11221,Isabel Barrera,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/lighting/products/socket-occasional-table-lamp,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-02,No,authorized,unfulfilled,1185469661220,1243,product,United States,94044,Matt Bateman,First-time,,1381430034468,20.970,MENU:2014410,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,3.880,45.820,45.820,41.940,2,0.000,2
-2019-09-02,No,authorized,unfulfilled,1184404733988,1234,product,United States,11216,Chris Chan,Returning,,1381427314724,29.980,MENU:1400189,0,www.google.com,https://www.google.com/,1,-11.990,0.000,0.000,4.260,52.230,52.230,47.970,2,0.000,2
-2019-09-02,No,authorized,unfulfilled,1185245495332,1238,product,United States,95624,Kim Vu,First-time,,1502819909668,19.980,MENU:4770429,0,store.menudesignshop.com,https://store.menudesignshop.com/,1,-3.990,0.000,0.000,1.240,17.230,17.230,15.990,1,0.000,1
-2019-09-02,No,authorized,unfulfilled,1185408909348,1242,shipping,United States,90004,Edward Line,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-02,No,authorized,unfulfilled,1185321877540,1240,product,United States,10017,Yi Huang,First-time,,1381428822052,14.980,MENU:2500639,0,,,1,-3.000,0.000,0.000,1.060,13.040,13.040,11.980,1,0.000,1
-2019-09-02,No,authorized,unfulfilled,1185375223844,1241,product,United States,11205,saskia de schrijver,First-time,,1381433606180,153.970,MENU:3100039,0,,,1,-30.790,0.000,0.000,10.930,134.110,134.110,123.180,1,0.000,1
-2019-09-02,No,authorized,unfulfilled,1185321877540,1240,shipping,United States,10017,Yi Huang,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-02,No,authorized,unfulfilled,1184354369572,1233,product,United States,11238,Terence Walshe,First-time,,1381432885284,134.980,MENU:1980839,0,,,1,-53.990,0.000,0.000,19.170,235.140,235.140,215.970,2,0.000,2
-2019-09-02,No,authorized,unfulfilled,1184404733988,1234,product,United States,11216,Chris Chan,Returning,,1381427478564,160.970,MENU:3530539,0,www.google.com,https://www.google.com/,1,-32.190,0.000,0.000,11.430,140.210,140.210,128.780,1,0.000,1
-2019-09-02,No,authorized,unfulfilled,1185375223844,1241,shipping,United States,11205,saskia de schrijver,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-02,No,authorized,unfulfilled,1184404733988,1234,shipping,United States,11216,Chris Chan,Returning,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-02,No,authorized,unfulfilled,1185469661220,1243,shipping,United States,94044,Matt Bateman,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-03,No,authorized,unfulfilled,1187051929636,1248,product,Canada,J0E 1G0,Dominique Gagnon,First-time,,1381427642404,47.980,MENU:1240009,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/pendants-chandeliers/products/cast-pendant,1,0.000,0.000,0.000,0.000,47.980,47.980,47.980,1,0.000,1
-2019-09-03,No,authorized,unfulfilled,1186499526692,1244,product,United States,92109,Lori Kraus,Returning,,1381427609636,179.950,MENU:4863539,0,,,1,-80.980,0.000,0.000,0.000,458.870,458.870,458.870,3,0.000,3
-2019-09-03,No,authorized,unfulfilled,1187070246948,1249,product,United States,92243,GLORINA GONZALEZ,First-time,,1381428559908,14.980,MENU:1632139,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet/lighting,1,0.000,0.000,0.000,2.320,32.280,32.280,29.960,2,0.000,2
-2019-09-03,No,authorized,unfulfilled,1187070246948,1249,product,United States,92243,GLORINA GONZALEZ,First-time,,1381428527140,29.980,MENU:1630139,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet/lighting,1,0.000,0.000,0.000,4.650,64.610,64.610,59.960,2,0.000,2
-2019-09-03,No,authorized,unfulfilled,1187070246948,1249,shipping,United States,92243,GLORINA GONZALEZ,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/outlet/lighting,0,0.000,0.000,8.380,0.000,8.380,0.000,0.000,0,0.000,0
-2019-09-03,No,authorized,unfulfilled,1186730541092,1246,product,United States,94925-2024,cadence bayley,First-time,,1381427314724,29.980,MENU:1400189,0,www.google.com,https://www.google.com/,1,0.000,0.000,0.000,0.000,29.980,29.980,29.980,1,0.000,1
-2019-09-03,No,authorized,unfulfilled,1186499526692,1244,shipping,United States,92109,Lori Kraus,Returning,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-03,No,authorized,unfulfilled,1187051929636,1248,product,Canada,J0E 1G0,Dominique Gagnon,First-time,,1381427642404,31.980,MENU:1230009,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/pendants-chandeliers/products/cast-pendant,1,0.000,0.000,0.000,0.000,31.980,31.980,31.980,1,0.000,1
-2019-09-03,No,authorized,unfulfilled,1186571386916,1245,product,United States,06830,Sandra Morgan,First-time,,1381427609636,249.950,MENU:4863839,0,,,1,0.000,0.000,0.000,0.000,249.950,249.950,249.950,1,0.000,1
-2019-09-03,No,authorized,unfulfilled,1186571386916,1245,shipping,United States,06830,Sandra Morgan,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
-2019-09-03,No,authorized,unfulfilled,1186730541092,1246,shipping,United States,94925-2024,cadence bayley,First-time,,0,0.000,,0,www.google.com,https://www.google.com/,0,0.000,0.000,12.510,0.000,12.510,0.000,0.000,0,0.000,0
-2019-09-03,No,authorized,unfulfilled,1187051929636,1248,shipping,Canada,J0E 1G0,Dominique Gagnon,First-time,,0,0.000,,0,store.menudesignshop.com,https://store.menudesignshop.com/collections/pendants-chandeliers/products/cast-pendant,0,0.000,0.000,20.180,0.000,20.180,0.000,0.000,0,0.000,0
-2019-09-03,No,authorized,unfulfilled,1186990850084,1247,product,Mexico,44140,BIBIANA HUBER DIAZ,First-time,,1381433114660,285.000,MENU:1937859,0,,,1,0.000,0.000,0.000,44.180,614.180,614.180,570.000,2,0.000,2
-2019-09-03,No,authorized,unfulfilled,1186990850084,1247,shipping,Mexico,44140,BIBIANA HUBER DIAZ,First-time,,0,0.000,,0,,,0,0.000,0.000,0.000,0.000,0.000,0.000,0.000,0,0.000,0
+Row Labels,Sum of ordered_item_quantity,Sum of discounts
+1-Jul,0,0
+(blank),0,0
+2-Jul,0,0
+(blank),0,0
+3-Jul,0,0
+(blank),0,0
+4-Jul,0,0
+(blank),0,0
+5-Jul,0,0
+(blank),0,0
+6-Jul,0,0
+(blank),0,0
+7-Jul,0,0
+(blank),0,0
+8-Jul,0,0
+(blank),0,0
+9-Jul,0,0
+(blank),0,0
+10-Jul,0,0
+(blank),0,0
+11-Jul,0,0
+(blank),0,0
+12-Jul,0,0
+(blank),0,0
+13-Jul,0,0
+(blank),0,0
+14-Jul,0,0
+(blank),0,0
+15-Jul,0,0
+(blank),0,0
+16-Jul,0,0
+(blank),0,0
+17-Jul,0,0
+(blank),0,0
+18-Jul,15,-296.13
+fulfilled,14,-284.14
+unfulfilled,1,-11.99
+19-Jul,21,-545.4
+fulfilled,21,-545.4
+20-Jul,10,-60.79
+fulfilled,10,-60.79
+21-Jul,18,-327.33
+fulfilled,17,-327.33
+unfulfilled,1,0
+22-Jul,9,-105.94
+fulfilled,9,-105.94
+23-Jul,21,-266.96
+fulfilled,19,-266.96
+partial,2,0
+24-Jul,14,-416.25
+fulfilled,14,-416.25
+25-Jul,10,-171.71
+fulfilled,10,-171.71
+26-Jul,38,-833.59
+fulfilled,14,-128.74
+unfulfilled,24,-704.85
+27-Jul,2,-72.78
+fulfilled,2,-72.78
+28-Jul,5,-137.97
+fulfilled,5,-137.97
+29-Jul,27,-746.84
+fulfilled,26,-746.84
+unfulfilled,1,0
+30-Jul,12,-529.94
+fulfilled,9,-249.95
+partial,3,-279.99
+31-Jul,7,-48.75
+fulfilled,4,-48.75
+unfulfilled,3,0
+1-Aug,26,0
+fulfilled,26,0
+2-Aug,3,-13.99
+fulfilled,2,-13.99
+unfulfilled,1,0
+3-Aug,13,-50.98
+fulfilled,13,-50.98
+4-Aug,9,-148.98
+fulfilled,6,0
+partial,3,-148.98
+5-Aug,6,0
+fulfilled,4,0
+unfulfilled,2,0
+6-Aug,8,0
+fulfilled,8,0
+7-Aug,7,-356.99
+fulfilled,7,-356.99
+8-Aug,13,-116.23
+fulfilled,9,-116.23
+partial,4,0
+9-Aug,0,0
+(blank),0,0
+10-Aug,5,0
+fulfilled,5,0
+11-Aug,2,-97.5
+fulfilled,2,-97.5
+12-Aug,5,-336
+fulfilled,2,0
+unfulfilled,3,-336
+13-Aug,7,0
+fulfilled,7,0
+14-Aug,2,0
+fulfilled,2,0
+15-Aug,5,-134.96
+fulfilled,5,-134.96
+unfulfilled,0,0
+16-Aug,12,-93.94
+fulfilled,12,-93.94
+17-Aug,2,0
+fulfilled,2,0
+18-Aug,5,0
+fulfilled,4,0
+unfulfilled,1,0
+19-Aug,0,0
+unfulfilled,0,0
+20-Aug,13,0
+fulfilled,6,0
+unfulfilled,7,0
+21-Aug,1,0
+fulfilled,1,0
+22-Aug,9,-185.98
+fulfilled,6,-185.98
+unfulfilled,3,0
+23-Aug,12,0
+fulfilled,8,0
+unfulfilled,4,0
+24-Aug,17,0
+fulfilled,11,0
+unfulfilled,6,0
+25-Aug,26,-211.35
+fulfilled,11,0
+unfulfilled,15,-211.35
+26-Aug,7,-189.96
+fulfilled,6,-189.96
+unfulfilled,1,0
+27-Aug,14,0
+fulfilled,5,0
+unfulfilled,9,0
+28-Aug,0,0
+(blank),0,0
+29-Aug,32,-2651.14
+fulfilled,6,-131.02
+partial,26,-2520.12
+30-Aug,16,0
+fulfilled,1,0
+unfulfilled,15,0
+31-Aug,36,-334.64
+unfulfilled,36,-334.64
+1-Sep,13,-162.15
+unfulfilled,13,-162.15
+2-Sep,46,-446.68
+unfulfilled,46,-446.68
+3-Sep,13,-80.98
+unfulfilled,13,-80.98
+Grand Total,594,-10172.83

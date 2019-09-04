@@ -27,7 +27,7 @@ Shopify API
 
 --- Rough Breakdown of Tasks ---
 
-Angeles -searches
+Angeles -searches --> Shopify / Plan of Action
 Jonah - segmentation
 Ghassan - Searches
 
