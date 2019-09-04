@@ -45,9 +45,9 @@ buyer_accepts_marketing
 			- 
 - Searches: 
 	- how many people searched for MENU? (organic searches)
+		- main keyword searches by [returning] customers
+		- 
 	- how many people got to MENU NA through another site or search terms?
 		- indicative of SEO
 
 
-- did shipping costs lead to checkout abandonment? (min. $100 purchase for free shipping)
-- 
