@@ -14,10 +14,13 @@ Ghassan
 
 
 --- Research Questions to Answers ---
-1. What variables/factors lead to a purchase?
-2. what proportion of sales come to the site through third party advertisers 
-and what percentage come to the site organically?
-3. Which landing pages have the highest rate of conversions?
+1. What variables/factors are associated to a purchase/conversion?
+	Graph 1:
+	Graph 2:
+2. what proportion of traffic that comes from organic searches are from users that already know the brand
+and what proportion comes from generic searches (indicative of SEO)?
+	Graph 1:
+	Graph 2:
 
 
 
@@ -29,7 +32,7 @@ Shopify API
 
 Angeles -searches --> Shopify / Plan of Action
 Jonah - segmentation
-Ghassan - Searches
+Ghassan - Searches & conversion rate of landing pages
 
 Documentation indexes:
 destination_location: customer location
@@ -43,11 +46,13 @@ buyer_accepts_marketing
 			- find the demographic with the highest conversion rate and focus on
 			  marketing to this group
 			- 
-- Searches: 
+- Searches/queries: 
 	- how many people searched for MENU? (organic searches)
 		- main keyword searches by [returning] customers
 		- 
 	- how many people got to MENU NA through another site or search terms?
 		- indicative of SEO
 
+Hypothesis: The majority of traffic and sales come from customers that already recognize the brand, and 
+	    MENU is not reaching out to new customers.
 
