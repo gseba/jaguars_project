@@ -9,53 +9,50 @@ Ghassan
 
 
 --- Project Description/ Guidelines ---
- 
+Hypothesis: The majority of traffic and sales come from customers that already recognize the brand, and 
+	    MENU is not reaching out to new customers.
+
+Null Hypothesis: The majority of traffic and sales do not come from customers that already recognize the 
+		 brand, and MENU is reaching out to new customers.
 
 
 
 --- Research Questions to Answers ---
-1. What variables/factors are associated to a purchase/conversion?
-	Graph 1:
-	Graph 2:
-2. what proportion of traffic that comes from organic searches are from users that already know the brand
-and what proportion comes from generic searches (indicative of SEO)?
-	Graph 1:
-	Graph 2:
 
+1. Market segmentation
+	- Graph 1: Age/gender
+	- Graph 2: Sessions, transactions, conversions
+	- Graph 3: bounce rate, pages per sessions, avg session duration
+
+2. What variables/factors are associated to a purchase/conversion?
+	Graph 1: E-commerce conversion channels
+	Graph 2: Get more in depth on Referrals and Organic searches
+	Graph 3: Order of conversion channels - referral, direct, paid search, email etc.
+
+3. what proportion of traffic that comes from organic searches are from users that already know the brand
+and what proportion comes from generic searches (indicative of SEO)?
+	Graph 1:  Organic Searches/queries showing what terms 
+	Graph 2:  Show the benchmark sessions 
+
+4. Does the landing page correlate to actual sales/ purchases?
+	Graph 1: The types of landing pages
+	Graph 2: Bounce rate and sales based on landing page
+
+Recommendations: 
+- Even though MENU represents a niche market, we still believe MENU is only capturing a small portion of
+	a small market and there's room for them to gain new customers.
 
 
 --- Datasets to be used ---
-Shopify API
+Shopify Reports
+Google Analytics
 
 
 --- Rough Breakdown of Tasks ---
 
-Angeles -searches --> Shopify / Plan of Action
+Angeles -searches --> Shopify analytics / Plan of Action
 Jonah - segmentation
 Ghassan - Searches & conversion rate of landing pages
 
-Documentation indexes:
-destination_location: customer location
-gateway: shopify_payments --> their layaway so cart is partially paid
-buyer_accepts_marketing
 
-
-- segmentations: destination location - zip code - where are people purchasing from
- 		from?
-			- Gender, age, income (if possible), zip/location
-			- find the demographic with the highest conversion rate and focus on
-			  marketing to this group
-			- 
-- Searches/queries: 
-	- how many people searched for MENU? (organic searches)
-		- main keyword searches by [returning] customers
-		- 
-	- how many people got to MENU NA through another site or search terms?
-		- indicative of SEO
-- Shopify Behaviors:
-	- what behaviors/landing pages lead to e-commerce conversion?
-	- 
-
-Hypothesis: The majority of traffic and sales come from customers that already recognize the brand, and 
-	    MENU is not reaching out to new customers.
 
