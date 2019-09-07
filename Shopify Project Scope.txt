@@ -52,6 +52,9 @@ buyer_accepts_marketing
 		- 
 	- how many people got to MENU NA through another site or search terms?
 		- indicative of SEO
+- Shopify Behaviors:
+	- what behaviors/landing pages lead to e-commerce conversion?
+	- 
 
 Hypothesis: The majority of traffic and sales come from customers that already recognize the brand, and 
 	    MENU is not reaching out to new customers.
