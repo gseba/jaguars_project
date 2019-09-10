@@ -29681,4 +29681,75 @@
                                     "currency_code": "USD"
                                 },
                                 "presentment_money": {
-                                    
+                                    "amount": "-337.28",
+                                    "currency_code": "USD"
+                                }
+                            },
+                            "tax_amount_set": {
+                                "shop_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "USD"
+                                },
+                                "presentment_money": {
+                                    "amount": "0.00",
+                                    "currency_code": "USD"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "payment_details": {
+                "credit_card_bin": "371302",
+                "avs_result_code": "Y",
+                "cvv_result_code": "M",
+                "credit_card_number": "•••• •••• •••• 2010",
+                "credit_card_company": "American Express"
+            },
+            "customer": {
+                "id": 1336019058724,
+                "email": "fionatate@hotmail.com",
+                "accepts_marketing": true,
+                "created_at": "2019-07-17T20:51:01-07:00",
+                "updated_at": "2019-07-23T16:10:51-07:00",
+                "first_name": "Fiona",
+                "last_name": "Farjami",
+                "orders_count": 1,
+                "state": "enabled",
+                "total_spent": "1686.38",
+                "last_order_id": 1111647027236,
+                "note": null,
+                "verified_email": true,
+                "multipass_identifier": null,
+                "tax_exempt": false,
+                "phone": "+19176244231",
+                "tags": "nexternal, nontrade",
+                "last_order_name": "1068",
+                "currency": "USD",
+                "accepts_marketing_updated_at": "2019-07-17T20:51:01-07:00",
+                "marketing_opt_in_level": "single_opt_in",
+                "tax_exemptions": [],
+                "admin_graphql_api_id": "gid://shopify/Customer/1336019058724",
+                "default_address": {
+                    "id": 1756917399588,
+                    "customer_id": 1336019058724,
+                    "first_name": "Fiona",
+                    "last_name": "Farjami",
+                    "company": "",
+                    "address1": "1 Grand Army Plaza",
+                    "address2": "Apt 12C",
+                    "city": "Brooklyn",
+                    "province": "New York",
+                    "country": "United States",
+                    "zip": "11238",
+                    "phone": "1 (917) 624-4231",
+                    "name": "Fiona Farjami",
+                    "province_code": "NY",
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "default": true
+                }
+            }
+        }
+    ]
+}
